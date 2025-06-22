@@ -1,0 +1,18 @@
+[project]
+name = "fip-fines-chart"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.13.4",
+    "httpx>=0.28.1",
+    "lxml>=5.4.0",
+    "pydantic>=2.11.7",
+    "pydantic-settings>=2.10.0",
+]
+
+[dependency-groups]
+dev = [
+    "notebook>=7.4.3",
+]
