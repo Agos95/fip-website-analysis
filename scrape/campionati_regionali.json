@@ -1,0 +1,78 @@
+[
+    {
+        "region": "abruzzo",
+        "url": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=AB&comitato_codice=RAB"
+    },
+    {
+        "region": "basilicata",
+        "url": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=BA&comitato_codice=RBA"
+    },
+    {
+        "region": "calabria",
+        "url": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=CA&comitato_codice=RCA"
+    },
+    {
+        "region": "campania",
+        "url": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=CM&comitato_codice=RCM"
+    },
+    {
+        "region": "emilia_romagna",
+        "url": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=EM&comitato_codice=REM"
+    },
+    {
+        "region": "friuli_venezia_giulia",
+        "url": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=FR&comitato_codice=RFR"
+    },
+    {
+        "region": "lazio",
+        "url": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=LA&comitato_codice=RLA"
+    },
+    {
+        "region": "liguria",
+        "url": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=LI&comitato_codice=RLI"
+    },
+    {
+        "region": "lombadria",
+        "url": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=LO&comitato_codice=RLO"
+    },
+    {
+        "region": "marche",
+        "url": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=MA&comitato_codice=RMA"
+    },
+    {
+        "region": "molise",
+        "url": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=MO&comitato_codice=RMO"
+    },
+    {
+        "region": "piemonte",
+        "url": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=PI&comitato_codice=RPI"
+    },
+    {
+        "region": "puglia",
+        "url": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=PU&comitato_codice=RPU"
+    },
+    {
+        "region": "sardegna",
+        "url": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=SA&comitato_codice=RSA"
+    },
+    {
+        "region": "sicilia",
+        "url": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=SO&comitato_codice=RSO"
+    },
+    {
+        "region": "toscana",
+        "url": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=TO&comitato_codice=RTO"
+    },
+    {
+        "region": "trentino_alto_adige",
+        "url": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=TN&comitato_codice=RTN"
+    },
+    {
+        "region": "umbria",
+        "url": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=UM&comitato_codice=RUM"
+    },
+    {
+        "region": "veneto",
+        "url": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=VE&comitato_codice=RVE"
+    }
+]
