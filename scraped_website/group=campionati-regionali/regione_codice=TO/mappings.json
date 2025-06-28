@@ -1,0 +1,2409 @@
+{
+  "comitato_codice": [
+    {
+      "RTO": "FIRENZE"
+    }
+  ],
+  "sesso": [
+    {
+      "M": "Campionati Maschili"
+    },
+    {
+      "F": "Campionati Femminili"
+    }
+  ],
+  "codice_campionato": [
+    {
+      "B2": "Serie B Interregionale"
+    },
+    {
+      "C1": "Serie C"
+    },
+    {
+      "D": "Divisione regionale 1"
+    },
+    {
+      "PM": "Divisione regionale 2"
+    },
+    {
+      "1DM": "Divisione regionale 3"
+    },
+    {
+      "U19/E": "Under 19 Maschile Eccellenza"
+    },
+    {
+      "U19G/M": "Under 19 Maschile Gold"
+    },
+    {
+      "U19S/M": "Under 19 Maschile Regionale"
+    },
+    {
+      "U17/E": "Under 17 Maschile Eccellenza"
+    },
+    {
+      "U17G/M": "Under 17 Maschile Gold"
+    },
+    {
+      "U17S/M": "Under 17 Maschile Regionale"
+    },
+    {
+      "U15/E": "Under 15 Maschile Eccellenza"
+    },
+    {
+      "U15G/M": "Under 15 Maschile Gold"
+    },
+    {
+      "U15S/M": "Under 15 Maschile Regionale"
+    },
+    {
+      "U14G/M": "Under 14 Maschile Gold"
+    },
+    {
+      "U14S/M": "Under 14 Maschile Regionale"
+    },
+    {
+      "U13S/M": "Under 13 Maschile Regionale"
+    },
+    {
+      "OPENM": "Campionato Open Maschile"
+    },
+    {
+      "ES": "Trofeo Esordienti"
+    },
+    {
+      "B/F": "Serie B Femminile"
+    },
+    {
+      "C/F": "Serie C Femminile"
+    },
+    {
+      "PF": "Promozione Femminile"
+    },
+    {
+      "U19/F": "Under 19 Femminile Regionale"
+    },
+    {
+      "U17F/L": "Under 17 Femminile Gold"
+    },
+    {
+      "U17/F": "Under 17 Femminile Regionale"
+    },
+    {
+      "U15/F": "Under 15 Femminile Regionale"
+    },
+    {
+      "U14/F": "Under 14 Femminile Regionale"
+    },
+    {
+      "U13/F": "Under 13 Femminile Regionale"
+    },
+    {
+      "OPENF": "Campionato Open Femminile"
+    },
+    {
+      "TFE": "Esordienti Femminile"
+    }
+  ],
+  "codice_fase": [
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "2": "2\u00b0 Fase Nord Ovest"
+    },
+    {
+      "3": "Play Off Promozione"
+    },
+    {
+      "4": "Play Off Semifinali"
+    },
+    {
+      "5": "Play Off Finale"
+    },
+    {
+      "1": "Conference NordOvest"
+    },
+    {
+      "2": "Play Off Girone B"
+    },
+    {
+      "3": "Play Out Girone B"
+    },
+    {
+      "4": "Play Off Gir. B 2\u00b0 T"
+    },
+    {
+      "5": "Play Out Gir.B 2\u00b0 T."
+    },
+    {
+      "6": "Play Off Gir.B 3\u00b0 T"
+    },
+    {
+      "1": "Prima Fase"
+    },
+    {
+      "2": "Play Off 1 T. Gir. A"
+    },
+    {
+      "3": "Play Off 1\u00b0T. Gir. B"
+    },
+    {
+      "4": "Play Off 2\u00b0T. Gir.A"
+    },
+    {
+      "5": "Play Off 2\u00b0T. Gir.B"
+    },
+    {
+      "6": "Play Off 3\u00b0T. Gir.A"
+    },
+    {
+      "7": "Play Off 3\u00b0T. Gir.B"
+    },
+    {
+      "1": "Prima Fase Regionale"
+    },
+    {
+      "2": "Play Off 1\u00b0T. Gir.A"
+    },
+    {
+      "3": "Play Off 1\u00b0T. Gir.B"
+    },
+    {
+      "4": "Play Off 1\u00b0T. Gir.C"
+    },
+    {
+      "5": "Play Off 1\u00b0T. Gir.D"
+    },
+    {
+      "6": "Play Out 1\u00b0T. Gir.A"
+    },
+    {
+      "7": "Play Out 1\u00b0T. Gir.B"
+    },
+    {
+      "8": "Play Out 1\u00b0T. Gir.C"
+    },
+    {
+      "9": "Play Out 1\u00b0T. Gir.D"
+    },
+    {
+      "A": "Play Off 2\u00b0T. Gir.A"
+    },
+    {
+      "B": "Play Off 2\u00b0T. Gir.B"
+    },
+    {
+      "C": "Play Off 2\u00b0T. Gir.C"
+    },
+    {
+      "D": "Play Off 2\u00b0T. Gir.D"
+    },
+    {
+      "E": "Play Out 2\u00b0T. Gir.A"
+    },
+    {
+      "F": "Play Out 2\u00b0T. Gir.C"
+    },
+    {
+      "G": "Play Out 2\u00b0T. Gir.D"
+    },
+    {
+      "1": "PRIMA FASE"
+    },
+    {
+      "2": "Play Off Finali"
+    },
+    {
+      "1": "Prima Fase"
+    },
+    {
+      "1": "Prima Fase Regionale"
+    },
+    {
+      "2": "Spareggi Titolo 1\u00b0T."
+    },
+    {
+      "3": "Spareggi Coppa 1\u00b0 T."
+    },
+    {
+      "4": "Spareggi Titolo 2\u00b0T."
+    },
+    {
+      "5": "Spareggi Coppa 2\u00b0 T."
+    },
+    {
+      "6": "Semifinali Titolo"
+    },
+    {
+      "7": "Finali Titolo Reg.le"
+    },
+    {
+      "8": "Quarti Coppa Toscana"
+    },
+    {
+      "9": "Semifinali Coppa T."
+    },
+    {
+      "A": "Finali Coppa Toscana"
+    },
+    {
+      "1": "PRIMA FASE"
+    },
+    {
+      "2": "Seconda Fase Titolo"
+    },
+    {
+      "3": "Seconda Fase Coppa"
+    },
+    {
+      "4": "Spareggi Titolo"
+    },
+    {
+      "5": "Spareggi Coppa Tosca"
+    },
+    {
+      "6": "Spareggi Titolo 2\u00b0 T"
+    },
+    {
+      "7": "Spareggi Coppa 2\u00b0 Tu"
+    },
+    {
+      "8": "Final Four Semifinal"
+    },
+    {
+      "9": "Final Four Finali"
+    },
+    {
+      "A": "Final Four Coppa Sem"
+    },
+    {
+      "B": "Final Four Coppa Fin"
+    },
+    {
+      "C": "F4 Coppa Primavera"
+    },
+    {
+      "D": "F4 Coppa Prim.Finali"
+    },
+    {
+      "1": "Prima Fase Regionale"
+    },
+    {
+      "2": "Seconda Fase"
+    },
+    {
+      "3": "3a Fase Coppa T."
+    },
+    {
+      "4": "Fase Interregionale"
+    },
+    {
+      "5": "Finali Coppa Toscana"
+    },
+    {
+      "6": "Finali Coppa-Toscana"
+    },
+    {
+      "1": "Spareggi"
+    },
+    {
+      "2": "Spareggi 2\u00b0 Turno"
+    },
+    {
+      "3": "Spareggi 3 turno"
+    },
+    {
+      "4": "PRIMA FASE"
+    },
+    {
+      "5": "Seconda Fase"
+    },
+    {
+      "6": "F4 Titolo Semifinali"
+    },
+    {
+      "7": "F4 Titolo Finali"
+    },
+    {
+      "8": "F4 Coppa Toscana"
+    },
+    {
+      "9": "F4 Coppa Finali"
+    },
+    {
+      "1": "PRIMA FASE"
+    },
+    {
+      "2": "Fase Orologio Girone"
+    },
+    {
+      "3": "Seconda Fase Titolo"
+    },
+    {
+      "4": "Seconda Fase Coppa P"
+    },
+    {
+      "5": "Spareggi Titolo 1\u00b0 T"
+    },
+    {
+      "6": "Spareggi Coppa 1\u00b0 Tu"
+    },
+    {
+      "7": "Spareggi Titolo 2\u00b0 T"
+    },
+    {
+      "8": "Spareggi Coppa 2\u00b0 Tu"
+    },
+    {
+      "9": "F8 Coppa Primavera"
+    },
+    {
+      "A": "F4 Coppa Primavera"
+    },
+    {
+      "B": "Finali Coppa Primave"
+    },
+    {
+      "C": "F4 Titolo Semifinali"
+    },
+    {
+      "D": "F4 Titolo Finali"
+    },
+    {
+      "E": "F4 Coppa Toscana"
+    },
+    {
+      "F": "F4 Coppa Finali"
+    },
+    {
+      "1": "Prima Fase Regionale"
+    },
+    {
+      "2": "Seconda Fase Regiona"
+    },
+    {
+      "3": "Semifinali Coppa T."
+    },
+    {
+      "4": "Finali Coppa Toscana"
+    },
+    {
+      "1": "Spareggi"
+    },
+    {
+      "2": "Spareggi 2\u00b0 Turno"
+    },
+    {
+      "3": "Spareggi 3\u00b0 Turno"
+    },
+    {
+      "4": "PRIMA FASE"
+    },
+    {
+      "5": "Seconda Fase Titolo"
+    },
+    {
+      "6": "Seconda Fase Coppa T"
+    },
+    {
+      "7": "Final Four Titolo"
+    },
+    {
+      "8": "Final Four Finali"
+    },
+    {
+      "9": "Final Four Coppa"
+    },
+    {
+      "A": "Final Four Coppa Fin"
+    },
+    {
+      "1": "PRIMA FASE"
+    },
+    {
+      "2": "Seconda Fase"
+    },
+    {
+      "3": "F4 Titolo Regionale"
+    },
+    {
+      "4": "F4 Titolo Finali"
+    },
+    {
+      "5": "F6 Coppa Tosc. Quart"
+    },
+    {
+      "6": "F6 Coppa T Semifinal"
+    },
+    {
+      "7": "F4 Coppa Tos.Finali"
+    },
+    {
+      "1": "Prima Fase"
+    },
+    {
+      "2": "Orologio Gir. B"
+    },
+    {
+      "3": "Quarti Finale Titolo"
+    },
+    {
+      "4": "Quarti  Finale Coppa"
+    },
+    {
+      "5": "Semifinali Titolo"
+    },
+    {
+      "6": "Finali Titolo"
+    },
+    {
+      "7": "Semifinali Coppa T."
+    },
+    {
+      "8": "Finali Coppa Toscana"
+    },
+    {
+      "1": "Prima Fase"
+    },
+    {
+      "2": "Seconda Fase"
+    },
+    {
+      "3": "Semifinali Titolo"
+    },
+    {
+      "4": "Finali Titolo"
+    },
+    {
+      "5": "Semifinali Coppa T."
+    },
+    {
+      "6": "Finali Coppa Toscana"
+    },
+    {
+      "1": "Prima Fase Regionale"
+    },
+    {
+      "2": "2\u00b0 Fase Regionale"
+    },
+    {
+      "3": "2\u00b0 Fase C. Primavera"
+    },
+    {
+      "4": "Lega 21 Spareggi"
+    },
+    {
+      "5": "Primavera Spareggi"
+    },
+    {
+      "6": "Finali Titolo"
+    },
+    {
+      "7": "Semifinali Titolo"
+    },
+    {
+      "8": "Finali Titolo Reg.le"
+    },
+    {
+      "9": "Primavera Spar. 2T."
+    },
+    {
+      "A": "Quarti C. Primavera"
+    },
+    {
+      "B": "Semifinali Coppa Pr."
+    },
+    {
+      "C": "Finali Coppa Primav."
+    },
+    {
+      "D": "Spareggio Leghe"
+    },
+    {
+      "E": "Final Six Coppa T."
+    },
+    {
+      "F": "Semifinali Coppa T."
+    },
+    {
+      "G": "Finali Coppa Toscana"
+    },
+    {
+      "1": "Trofeo Piperno - Ott"
+    },
+    {
+      "2": "Trofeo Bugliesi - Se"
+    },
+    {
+      "3": "Tr. Bugliesi Ottavi"
+    },
+    {
+      "4": "Tr. Piperno - Quarti"
+    },
+    {
+      "5": "Tr. Bugliesi - Quart"
+    },
+    {
+      "6": "Tr Piperno Semifinal"
+    },
+    {
+      "7": "Tr. Piperno - Finale"
+    },
+    {
+      "8": "Tr Bugliesi Semifina"
+    },
+    {
+      "9": "Tr. Bugliesi - Final"
+    },
+    {
+      "1": "Prima Fase Regionale"
+    },
+    {
+      "2": "Seconda Fase Regiona"
+    },
+    {
+      "3": "Concen. 1-Semifinali"
+    },
+    {
+      "4": "Concencen.1 - Finali"
+    },
+    {
+      "7": "Concen.3-Semifinali"
+    },
+    {
+      "8": "Concentr.3 - Finali"
+    },
+    {
+      "9": "Concentr. 2 - Finale"
+    },
+    {
+      "1": "Prima Fase"
+    },
+    {
+      "2": "Play in"
+    },
+    {
+      "3": "Play Off Turno Unico"
+    },
+    {
+      "4": "Play Out 1 Turno"
+    },
+    {
+      "5": "Play Out 2\u00b0 Turno"
+    },
+    {
+      "1": "PRIMA FASE"
+    },
+    {
+      "2": "Play Off - 1\u00b0 Turno"
+    },
+    {
+      "3": "Play Out - 1\u00b0 Turno"
+    },
+    {
+      "4": "Play Out - 2\u00b0 Turno"
+    },
+    {
+      "5": "Play Off - 2\u00b0 Turno"
+    },
+    {
+      "1": "PRIMA FASE"
+    },
+    {
+      "2": "Play Off - 1\u00b0 Turno"
+    },
+    {
+      "3": "Play Off - 2\u00b0 Turno"
+    },
+    {
+      "4": "Play Off - Finale"
+    },
+    {
+      "1": "PRIMA FASE"
+    },
+    {
+      "2": "2\u00b0 Fase Coppa Toscan"
+    },
+    {
+      "3": "Final Four Coppa"
+    },
+    {
+      "4": "Final Four Coppa Fin"
+    },
+    {
+      "1": "PRIMA FASE"
+    },
+    {
+      "2": "Seconda Fase Titolo"
+    },
+    {
+      "3": "Seconda Fase Coppa T"
+    },
+    {
+      "4": "Final Four Coppa"
+    },
+    {
+      "5": "Final Four Finali"
+    },
+    {
+      "1": "PRIMA FASE"
+    },
+    {
+      "2": "Seconda Fase Titolo"
+    },
+    {
+      "3": "Seconda Fase Coppa T"
+    },
+    {
+      "5": "Final Four Titolo Re"
+    },
+    {
+      "6": "Final Four Coppa Sem"
+    },
+    {
+      "7": "Finali"
+    },
+    {
+      "1": "PRIMA FASE"
+    },
+    {
+      "2": "Seconda Fase"
+    },
+    {
+      "3": "Terza Fase Coppa Tos"
+    },
+    {
+      "4": "Terza Fase Coppa Pri"
+    },
+    {
+      "5": "F4 Coppa Primavera"
+    },
+    {
+      "6": "F4 Coppa Prim.Finali"
+    },
+    {
+      "7": "F4 Coppa Toscana"
+    },
+    {
+      "8": "F4 Coppa Tos.Finali"
+    },
+    {
+      "1": "PRIMA FASE"
+    },
+    {
+      "2": "Seconda Fase"
+    },
+    {
+      "3": "F4 Titolo Semifinali"
+    },
+    {
+      "4": "F4 Titolo Finali"
+    },
+    {
+      "5": "F4 Coppa Toscana"
+    },
+    {
+      "6": "F4 Coppa Toscana Fin"
+    },
+    {
+      "1": "PRIMA FASE"
+    },
+    {
+      "2": "2\u00b0 Fase Regionale"
+    },
+    {
+      "3": "3\u00b0 Fase Coppa Primav"
+    },
+    {
+      "4": "3\u00b0 Fase Coppa Toscan"
+    },
+    {
+      "5": "Final Four Titolo Re"
+    },
+    {
+      "6": "Final Four Finali"
+    },
+    {
+      "7": "Pre Spareggio"
+    },
+    {
+      "8": "F4 Coppa Toscana"
+    },
+    {
+      "9": "F4 Coppa Tos.Finali"
+    },
+    {
+      "1": "Trofeo Lunghi - Elim"
+    },
+    {
+      "2": "Trofeo Lunghi Quarti"
+    },
+    {
+      "3": "Semifinali Coppa T."
+    },
+    {
+      "4": "Trofeo Lunghi Finale"
+    },
+    {
+      "1": "Prima Fase Regionale"
+    },
+    {
+      "2": "Seconda Fase Regiona"
+    }
+  ],
+  "codice_girone": [
+    {
+      "66214": "Division B"
+    },
+    {
+      "68794": "Play-in Gold"
+    },
+    {
+      "71972": "Gara 1"
+    },
+    {
+      "71973": "Gara 2"
+    },
+    {
+      "71974": "Gara 3"
+    },
+    {
+      "71975": "Gara 4"
+    },
+    {
+      "73812": "Gara 5"
+    },
+    {
+      "73813": "Gara 6"
+    },
+    {
+      "74658": "Finale"
+    },
+    {
+      "66215": "Girone B"
+    },
+    {
+      "70646": "Gara 1"
+    },
+    {
+      "70647": "Gara 2"
+    },
+    {
+      "70648": "Gara 3"
+    },
+    {
+      "70649": "Gara 4"
+    },
+    {
+      "70658": "Gara 1"
+    },
+    {
+      "70659": "Gara 2"
+    },
+    {
+      "72410": "Gara 5"
+    },
+    {
+      "72411": "Gara 6"
+    },
+    {
+      "73313": "Gara 3"
+    },
+    {
+      "73814": "Gara 7 Finale"
+    },
+    {
+      "66217": "Girone A"
+    },
+    {
+      "66218": "Girone B"
+    },
+    {
+      "71770": "Incontro 1"
+    },
+    {
+      "71771": "Incontro 2"
+    },
+    {
+      "71772": "Incontro 3"
+    },
+    {
+      "71773": "Incontro 4"
+    },
+    {
+      "71782": "Incontro 1"
+    },
+    {
+      "71783": "Incontro 2"
+    },
+    {
+      "71784": "Incontro 3"
+    },
+    {
+      "71785": "Incontro 4"
+    },
+    {
+      "73315": "Incontro 5"
+    },
+    {
+      "73316": "Incontro 6"
+    },
+    {
+      "73320": "Incontro 5"
+    },
+    {
+      "73321": "Incontro 6"
+    },
+    {
+      "74326": "Finale"
+    },
+    {
+      "74327": "Finale"
+    },
+    {
+      "66508": "Girone A"
+    },
+    {
+      "66509": "Girone B"
+    },
+    {
+      "66510": "Girone C"
+    },
+    {
+      "66511": "Girone D"
+    },
+    {
+      "70676": "Gara 1"
+    },
+    {
+      "70677": "Gara 2"
+    },
+    {
+      "70813": "Gara 1"
+    },
+    {
+      "70814": "Gara 2"
+    },
+    {
+      "70825": "Gara 1"
+    },
+    {
+      "70826": "Gara 2"
+    },
+    {
+      "70833": "Gara 1"
+    },
+    {
+      "70834": "Gara 2"
+    },
+    {
+      "70837": "Gara 1"
+    },
+    {
+      "70838": "Gara 2"
+    },
+    {
+      "70843": "Gara 7"
+    },
+    {
+      "70846": "Gara 5"
+    },
+    {
+      "70847": "Gara 6"
+    },
+    {
+      "70848": "Gara 5"
+    },
+    {
+      "70849": "Gara 6"
+    },
+    {
+      "73322": "Finale"
+    },
+    {
+      "73323": "Finale"
+    },
+    {
+      "73324": "Finale"
+    },
+    {
+      "73325": "Finale"
+    },
+    {
+      "73327": "Finale"
+    },
+    {
+      "73328": "Finale"
+    },
+    {
+      "73329": "Finale"
+    },
+    {
+      "67038": "Girone A"
+    },
+    {
+      "67039": "Girone B"
+    },
+    {
+      "67040": "Girone C"
+    },
+    {
+      "67041": "Girone D"
+    },
+    {
+      "73202": "Primo Quarto"
+    },
+    {
+      "73203": "Secondo Quarto"
+    },
+    {
+      "73204": "Terzo Quarto"
+    },
+    {
+      "73205": "Quarto Quarto"
+    },
+    {
+      "66458": "Girone 6"
+    },
+    {
+      "66534": "Girone A"
+    },
+    {
+      "66535": "Girone B"
+    },
+    {
+      "71382": "Incontro n.1"
+    },
+    {
+      "71383": "Incontro n.2"
+    },
+    {
+      "71384": "Incontro n.3"
+    },
+    {
+      "71385": "Incontro n.4"
+    },
+    {
+      "71386": "Incontro n.9"
+    },
+    {
+      "71387": "Incontro n.10"
+    },
+    {
+      "71388": "Incontro n.11"
+    },
+    {
+      "71389": "Incontro n.12"
+    },
+    {
+      "71390": "Incontro n.13"
+    },
+    {
+      "71391": "Incontro n.14"
+    },
+    {
+      "71392": "Incontro n.15"
+    },
+    {
+      "71980": "Incontro 5"
+    },
+    {
+      "71981": "Incontro 6"
+    },
+    {
+      "72066": "Incontro n.16"
+    },
+    {
+      "72067": "Incontro n.17"
+    },
+    {
+      "72068": "Incontro n.18"
+    },
+    {
+      "72069": "Incontro n.19"
+    },
+    {
+      "72644": "Incontro 7"
+    },
+    {
+      "72645": "Incontro 8"
+    },
+    {
+      "72652": "Finale Terzo Posto"
+    },
+    {
+      "72653": "Finale Primo Posto"
+    },
+    {
+      "73179": "Incontro 20"
+    },
+    {
+      "73180": "Incontro 21"
+    },
+    {
+      "73185": "Prima Semifinale"
+    },
+    {
+      "73186": "Seconda Semifinale"
+    },
+    {
+      "73187": "Finale Terzo Posto"
+    },
+    {
+      "73188": "Finale Primo Posto"
+    },
+    {
+      "66894": "Girone A"
+    },
+    {
+      "66895": "Girone B"
+    },
+    {
+      "66896": "Girone C"
+    },
+    {
+      "66897": "Girone D"
+    },
+    {
+      "66898": "Girone E"
+    },
+    {
+      "66899": "Girone F"
+    },
+    {
+      "66900": "Girone G"
+    },
+    {
+      "66901": "Girone H"
+    },
+    {
+      "68871": "Girone I"
+    },
+    {
+      "68877": "Girone L"
+    },
+    {
+      "68878": "Girone M"
+    },
+    {
+      "68879": "Girone N"
+    },
+    {
+      "68890": "Girone O"
+    },
+    {
+      "68891": "Girone P"
+    },
+    {
+      "68892": "Girone Q"
+    },
+    {
+      "68893": "Girone R"
+    },
+    {
+      "70412": "Primo Ottavo"
+    },
+    {
+      "70413": "Secondo Ottavo"
+    },
+    {
+      "70414": "Terzo Ottavo"
+    },
+    {
+      "70415": "Quarto Ottavo"
+    },
+    {
+      "70416": "Quinto Ottavo"
+    },
+    {
+      "70417": "Sesto Ottavo"
+    },
+    {
+      "70418": "Settimo Ottavo"
+    },
+    {
+      "70419": "Ottavo Ottavo"
+    },
+    {
+      "71052": "Primo Ottavo"
+    },
+    {
+      "71053": "Secondo Ottavo"
+    },
+    {
+      "71054": "Terzo Ottavo"
+    },
+    {
+      "71055": "Quarto Ottavo"
+    },
+    {
+      "71056": "Quinto Ottavo"
+    },
+    {
+      "71057": "Sesto Ottavo"
+    },
+    {
+      "71058": "Settimo Ottavo"
+    },
+    {
+      "71059": "Ottavo Ottavo"
+    },
+    {
+      "72205": "Primo Quarto"
+    },
+    {
+      "72206": "Secondo Quarto"
+    },
+    {
+      "72207": "Terzo Quarto"
+    },
+    {
+      "72208": "Quarto Quarto"
+    },
+    {
+      "72282": "Primo Quarto"
+    },
+    {
+      "72283": "Secondo Quarto"
+    },
+    {
+      "72284": "Terzo Quarto"
+    },
+    {
+      "72285": "Quarto Quarto"
+    },
+    {
+      "73254": "Prima Semifinale"
+    },
+    {
+      "73255": "Seconda Semifinale"
+    },
+    {
+      "73256": "Prima Semifinale"
+    },
+    {
+      "73257": "Seconda Semifinale"
+    },
+    {
+      "73571": "Prima Semifinale"
+    },
+    {
+      "73572": "Seconda Semifinale"
+    },
+    {
+      "73573": "Prima Semifinale"
+    },
+    {
+      "73574": "Seconda Semifinale"
+    },
+    {
+      "74257": "Prima Semifinale"
+    },
+    {
+      "74258": "Seconda Semifinale"
+    },
+    {
+      "74259": "Finale terzo posto"
+    },
+    {
+      "74260": "Finale primo posto"
+    },
+    {
+      "66362": "Girone A"
+    },
+    {
+      "66363": "Girone B"
+    },
+    {
+      "68043": "Girone C Titolo"
+    },
+    {
+      "68044": "Girone D Coppa T."
+    },
+    {
+      "69089": "Girone E"
+    },
+    {
+      "69090": "Girone F"
+    },
+    {
+      "69097": "Girone F"
+    },
+    {
+      "73806": "Prima Semifinale"
+    },
+    {
+      "73807": "Seconda Semifinale"
+    },
+    {
+      "73808": "Finale Terzo Posto"
+    },
+    {
+      "73809": "Finale Primo Posto"
+    },
+    {
+      "66404": "Spareggio 1\u00b0 Turno"
+    },
+    {
+      "66567": "Girone A"
+    },
+    {
+      "66719": "Finale"
+    },
+    {
+      "66934": "Girone A"
+    },
+    {
+      "66935": "Girone B"
+    },
+    {
+      "66936": "Girone C"
+    },
+    {
+      "68610": "Girone D"
+    },
+    {
+      "68633": "Girone E Coppa Toscana"
+    },
+    {
+      "74234": "Prima Semifinale"
+    },
+    {
+      "74235": "Seconda Semifinale"
+    },
+    {
+      "74236": "Finale terzo posto"
+    },
+    {
+      "74237": "Finale primo posto"
+    },
+    {
+      "74238": "Prima Semifinale"
+    },
+    {
+      "74239": "Seconda Semifinale"
+    },
+    {
+      "74240": "Finale terzo posto"
+    },
+    {
+      "74241": "Finale primo posto"
+    },
+    {
+      "66946": "Girone A"
+    },
+    {
+      "66947": "Girone B"
+    },
+    {
+      "66948": "Girone C"
+    },
+    {
+      "66949": "Girone D"
+    },
+    {
+      "66950": "Girone E"
+    },
+    {
+      "66951": "Girone F"
+    },
+    {
+      "66952": "Girone G"
+    },
+    {
+      "66953": "Girone H"
+    },
+    {
+      "68916": "Girone B Orologio"
+    },
+    {
+      "69212": "Girone I"
+    },
+    {
+      "69242": "Girone L"
+    },
+    {
+      "69243": "Girone M"
+    },
+    {
+      "69244": "Girone N"
+    },
+    {
+      "69345": "Girone O"
+    },
+    {
+      "69346": "Girone P"
+    },
+    {
+      "69347": "Girone Q"
+    },
+    {
+      "69348": "Girone R"
+    },
+    {
+      "72489": "Primo Ottavo"
+    },
+    {
+      "72490": "Secondo Ottavo"
+    },
+    {
+      "72491": "Terzo Ottavo"
+    },
+    {
+      "72492": "Quarto Ottavo"
+    },
+    {
+      "72493": "Quinto Ottavo"
+    },
+    {
+      "72494": "Sesto Ottavo"
+    },
+    {
+      "72495": "Settimo Ottavo"
+    },
+    {
+      "72496": "Ottavo Ottavo"
+    },
+    {
+      "72525": "Primo Ottavo"
+    },
+    {
+      "72526": "Secondo Ottavo"
+    },
+    {
+      "72527": "Terzo Ottavo"
+    },
+    {
+      "72528": "Quarto Ottavo"
+    },
+    {
+      "72529": "Quinto Ottavo"
+    },
+    {
+      "72530": "Sesto Ottavo"
+    },
+    {
+      "72531": "Settimo Ottavo"
+    },
+    {
+      "72532": "Ottavo Ottavo"
+    },
+    {
+      "73502": "Primo Quarto"
+    },
+    {
+      "73503": "Secondo Quarto"
+    },
+    {
+      "73504": "Terzo Quarto"
+    },
+    {
+      "73505": "Quarto Quarto"
+    },
+    {
+      "73536": "Primo Quarto"
+    },
+    {
+      "73537": "Secondo Quarto"
+    },
+    {
+      "73538": "Terzo Quarto"
+    },
+    {
+      "73539": "Quarto Quarto"
+    },
+    {
+      "73740": "Incontro 29"
+    },
+    {
+      "73741": "Incontro 30"
+    },
+    {
+      "73742": "Incontro 31"
+    },
+    {
+      "73743": "Incontro 32"
+    },
+    {
+      "73751": "Prima Semifinale"
+    },
+    {
+      "73752": "Seconda Semifinale"
+    },
+    {
+      "73753": "Finale terzo posto"
+    },
+    {
+      "73754": "Finale primo posto"
+    },
+    {
+      "74223": "Prima Semifinale"
+    },
+    {
+      "74224": "Seconda Semifinale"
+    },
+    {
+      "74225": "Finale terzo posto"
+    },
+    {
+      "74226": "Finale primo posto"
+    },
+    {
+      "74227": "Prima Semifinale"
+    },
+    {
+      "74228": "Seconda Semifinale"
+    },
+    {
+      "74229": "Finale terzo posto"
+    },
+    {
+      "74230": "Finale primo posto"
+    },
+    {
+      "66364": "Girone A"
+    },
+    {
+      "68841": "Titolo Regionale"
+    },
+    {
+      "68842": "Coppa Toscana"
+    },
+    {
+      "73214": "Prima Semifinale"
+    },
+    {
+      "73215": "Seconda Semifinale"
+    },
+    {
+      "73332": "Finale Terzo Posto"
+    },
+    {
+      "73333": "Finale Primo Posto"
+    },
+    {
+      "66410": "Spareggio 1\u00b0 turno"
+    },
+    {
+      "66568": "Prima Semifinale"
+    },
+    {
+      "66569": "Seconda Semifinale"
+    },
+    {
+      "66570": "Finale"
+    },
+    {
+      "66820": "Girone A"
+    },
+    {
+      "66826": "Girone B"
+    },
+    {
+      "69053": "Girone Finale Titolo"
+    },
+    {
+      "69135": "Girone Finale Coppa Toscana"
+    },
+    {
+      "73676": "Prima Semifinale"
+    },
+    {
+      "73677": "Seconda Semifinale"
+    },
+    {
+      "73681": "3- 4\u00b0 posto"
+    },
+    {
+      "73682": "1- 2\u00b0 posto"
+    },
+    {
+      "73702": "Prima Semifinale"
+    },
+    {
+      "73703": "Seconda Semifinale"
+    },
+    {
+      "73704": "Finale terzo posto"
+    },
+    {
+      "73705": "Finale 1 posto"
+    },
+    {
+      "66939": "Girone A"
+    },
+    {
+      "66940": "Girone B"
+    },
+    {
+      "66941": "Girone C"
+    },
+    {
+      "66942": "Girone D"
+    },
+    {
+      "66943": "Girone E"
+    },
+    {
+      "66944": "Girone F"
+    },
+    {
+      "66945": "Girone G"
+    },
+    {
+      "68711": "Girone H Titolo"
+    },
+    {
+      "68712": "Girone I Titolo"
+    },
+    {
+      "68713": "Girone L Coppa Toscana"
+    },
+    {
+      "68714": "Girone M Coppa Toscana"
+    },
+    {
+      "68715": "Girone N Coppa Toscana"
+    },
+    {
+      "68716": "Girone O Coppa Toscana"
+    },
+    {
+      "68717": "Girone P Coppa Toscana"
+    },
+    {
+      "74261": "Prima Semifinale"
+    },
+    {
+      "74262": "Seconda Semifinale"
+    },
+    {
+      "74263": "Finale terzo posto"
+    },
+    {
+      "74264": "Finale primo posto"
+    },
+    {
+      "74432": "Primo Quarto"
+    },
+    {
+      "74433": "Secondo Quarto"
+    },
+    {
+      "74436": "Prima Semifinale"
+    },
+    {
+      "74437": "Seconda Semifinale"
+    },
+    {
+      "74440": "Prima Semifinale"
+    },
+    {
+      "74441": "Seconda Semifinale"
+    },
+    {
+      "66924": "Girone A"
+    },
+    {
+      "66925": "Girone B"
+    },
+    {
+      "72434": "Orol. Girone B"
+    },
+    {
+      "74358": "Incontro n.1"
+    },
+    {
+      "74359": "Incontro n.2"
+    },
+    {
+      "74360": "Incontro n.3"
+    },
+    {
+      "74361": "Incontro n.4"
+    },
+    {
+      "74362": "Incontro n.7"
+    },
+    {
+      "74363": "Incontro n.8"
+    },
+    {
+      "74364": "Incontro n.9"
+    },
+    {
+      "74365": "Incontro n.10"
+    },
+    {
+      "74366": "Prima Semifinale"
+    },
+    {
+      "74367": "Seconda Semifinale"
+    },
+    {
+      "74368": "Finale Terzo Posto"
+    },
+    {
+      "74369": "Finale Primo Posto"
+    },
+    {
+      "74372": "Prima Semifinale"
+    },
+    {
+      "74373": "Seconda Semifinale"
+    },
+    {
+      "74374": "Finale Terzo Posto"
+    },
+    {
+      "74375": "Finale Primo Posto"
+    },
+    {
+      "66926": "Girone A"
+    },
+    {
+      "66927": "Girone B"
+    },
+    {
+      "66928": "Girone C"
+    },
+    {
+      "66929": "Girone D"
+    },
+    {
+      "69283": "Girone E Titolo"
+    },
+    {
+      "69284": "Girone F Titolo"
+    },
+    {
+      "69285": "Girone G Coppa"
+    },
+    {
+      "69286": "Girone H Coppa"
+    },
+    {
+      "74493": "Prima Semifinale"
+    },
+    {
+      "74494": "Seconda Semifinale"
+    },
+    {
+      "74497": "Finale Terzo Posto"
+    },
+    {
+      "74498": "Finale Primo Posto"
+    },
+    {
+      "74501": "Prima Semifinale"
+    },
+    {
+      "74502": "Seconda Semifinale"
+    },
+    {
+      "74589": "Finale Terzo Posto"
+    },
+    {
+      "74590": "Seconda Semifinale"
+    },
+    {
+      "67030": "Girone B"
+    },
+    {
+      "67031": "Girone C"
+    },
+    {
+      "67032": "Girone D"
+    },
+    {
+      "67033": "Girone E"
+    },
+    {
+      "67034": "Girone F"
+    },
+    {
+      "67035": "Girone G"
+    },
+    {
+      "67036": "Girone H"
+    },
+    {
+      "67037": "Girone I"
+    },
+    {
+      "67053": "Girone A"
+    },
+    {
+      "68722": "Lega 21 Atlantic D."
+    },
+    {
+      "68723": "Lega 21 Central D."
+    },
+    {
+      "68724": "Lega 21 Pacific D."
+    },
+    {
+      "68725": "Lega 21 South East D."
+    },
+    {
+      "68726": "Lega 21 South Ovest D."
+    },
+    {
+      "68727": "Lega 22 Atlantic D."
+    },
+    {
+      "68728": "Lega 22 Central D."
+    },
+    {
+      "68729": "Lega 22 Pacific D."
+    },
+    {
+      "68735": "Lega 23 Atlantic D."
+    },
+    {
+      "68736": "Lega 23 Central D."
+    },
+    {
+      "71856": "Spareggi Titolo Regionale"
+    },
+    {
+      "72305": "Pre Spareggi"
+    },
+    {
+      "72772": "Primo Quarto"
+    },
+    {
+      "72773": "Secondo Quarto"
+    },
+    {
+      "72774": "Terzo Quarto"
+    },
+    {
+      "72775": "Quarto Quarto"
+    },
+    {
+      "72776": "Prima Semifinale"
+    },
+    {
+      "72777": "Seconda Semifinale"
+    },
+    {
+      "72778": "Finale Terzo Posto"
+    },
+    {
+      "72779": "Finale Titolo Reg.le"
+    },
+    {
+      "72796": "Incontro n.5"
+    },
+    {
+      "72797": "Incontro n.6"
+    },
+    {
+      "72798": "Incontro n.7"
+    },
+    {
+      "72799": "Incontro n.8"
+    },
+    {
+      "72800": "Incontro n.9"
+    },
+    {
+      "72801": "Incontro n.10"
+    },
+    {
+      "72802": "Incontro n.11"
+    },
+    {
+      "72803": "Incontro n.12"
+    },
+    {
+      "73420": "Primo Quarto"
+    },
+    {
+      "73421": "Secondo Quarto"
+    },
+    {
+      "73422": "Terzo Quarto"
+    },
+    {
+      "73423": "Quarto Quarto"
+    },
+    {
+      "73653": "Prima Semifinale"
+    },
+    {
+      "73654": "Seconda Semifinale"
+    },
+    {
+      "73659": "Finale Terzo Posto"
+    },
+    {
+      "73660": "Finale Primo Posto"
+    },
+    {
+      "74330": "Finale Leghe"
+    },
+    {
+      "74505": "Primo Quarto"
+    },
+    {
+      "74506": "Secondo Quarto"
+    },
+    {
+      "74507": "Prima Semifinale"
+    },
+    {
+      "74508": "Seconda Semifinale"
+    },
+    {
+      "74509": "Finale Terzo Posto"
+    },
+    {
+      "74510": "Finale Primo Posto"
+    },
+    {
+      "66244": "Incontro n.1"
+    },
+    {
+      "66245": "Incontro n.2"
+    },
+    {
+      "66246": "Incontro n.3"
+    },
+    {
+      "66247": "Incontro n.4"
+    },
+    {
+      "66248": "Incontro n.5"
+    },
+    {
+      "66249": "Incontro n.6"
+    },
+    {
+      "66250": "Incontro n.7"
+    },
+    {
+      "66251": "Incontro n.8"
+    },
+    {
+      "66263": "Incontro 1"
+    },
+    {
+      "66264": "Incontro 2"
+    },
+    {
+      "66265": "Incontro 3"
+    },
+    {
+      "66266": "Incontro 4"
+    },
+    {
+      "66267": "Incontro 5"
+    },
+    {
+      "66268": "Incontro 6"
+    },
+    {
+      "66269": "Incontro 7"
+    },
+    {
+      "66270": "Incontro 8"
+    },
+    {
+      "66271": "Incontro 9"
+    },
+    {
+      "66272": "Incontro 10"
+    },
+    {
+      "66273": "Incontro 11"
+    },
+    {
+      "66274": "Incontro 12"
+    },
+    {
+      "66275": "Incontro 13"
+    },
+    {
+      "66276": "Incontro 14"
+    },
+    {
+      "66277": "Incontro 15"
+    },
+    {
+      "66278": "Incontro 16"
+    },
+    {
+      "66494": "Primo Ottavo"
+    },
+    {
+      "66495": "Secondo Ottavo"
+    },
+    {
+      "66496": "Terzo Ottavo"
+    },
+    {
+      "66497": "Quarto Ottavo"
+    },
+    {
+      "66498": "Quinto Ottavo"
+    },
+    {
+      "66499": "Sesto Ottavo"
+    },
+    {
+      "66500": "Settimo Ottavo"
+    },
+    {
+      "66501": "Ottavo Ottavo"
+    },
+    {
+      "66552": "Quarti di Finale"
+    },
+    {
+      "66562": "Girone A"
+    },
+    {
+      "67892": "Prima Semifinale"
+    },
+    {
+      "67893": "Seconda Semifinale"
+    },
+    {
+      "67894": "Finale"
+    },
+    {
+      "67895": "Prima Semifinale"
+    },
+    {
+      "67896": "Seconda Semifinale"
+    },
+    {
+      "67897": "Finale"
+    },
+    {
+      "67475": "Girone A"
+    },
+    {
+      "67476": "Girone B"
+    },
+    {
+      "67477": "Girone C"
+    },
+    {
+      "67478": "Girone D"
+    },
+    {
+      "67479": "Girone E"
+    },
+    {
+      "67480": "Girone F"
+    },
+    {
+      "67481": "Girone G"
+    },
+    {
+      "67482": "Girone H"
+    },
+    {
+      "68652": "Girone I"
+    },
+    {
+      "68653": "Girone L"
+    },
+    {
+      "68654": "Girone M"
+    },
+    {
+      "68655": "Girone N"
+    },
+    {
+      "68656": "Girone O"
+    },
+    {
+      "68657": "Girone P"
+    },
+    {
+      "68658": "Girone Q"
+    },
+    {
+      "68659": "Girone R"
+    },
+    {
+      "68660": "Girone S"
+    },
+    {
+      "68661": "Girone T"
+    },
+    {
+      "73996": "Prima Semifinale"
+    },
+    {
+      "73997": "Seconda Semifinale"
+    },
+    {
+      "74004": "Finale Terzo Posto"
+    },
+    {
+      "74005": "Finale Primo Posto"
+    },
+    {
+      "74010": "Prima Semifinale"
+    },
+    {
+      "74011": "Seconda Semifinale"
+    },
+    {
+      "74012": "Prima Semifinale"
+    },
+    {
+      "74013": "Seconda Semifinale"
+    },
+    {
+      "74521": "Finale"
+    },
+    {
+      "66480": "Girone Unico"
+    },
+    {
+      "71394": "Incontro n.1"
+    },
+    {
+      "71395": "Incontro n.2"
+    },
+    {
+      "71745": "Incontro 3"
+    },
+    {
+      "71746": "Incontro 4"
+    },
+    {
+      "71747": "Incontro 5"
+    },
+    {
+      "71748": "Incontro 6"
+    },
+    {
+      "73345": "Finale"
+    },
+    {
+      "66538": "Girone Unico"
+    },
+    {
+      "69443": "Primo Quarto"
+    },
+    {
+      "69444": "Secondo Quarto"
+    },
+    {
+      "69445": "Terzo Quarto"
+    },
+    {
+      "69446": "Quarto Quarto"
+    },
+    {
+      "69890": "Prima Semifinale"
+    },
+    {
+      "69891": "Seconda Semifinale"
+    },
+    {
+      "70527": "Finale"
+    },
+    {
+      "70724": "Prima Semifinale"
+    },
+    {
+      "70725": "Seconda Semifinale"
+    },
+    {
+      "66541": "Girone Unico"
+    },
+    {
+      "69852": "Primo Quarto"
+    },
+    {
+      "69853": "Secondo Quarto"
+    },
+    {
+      "69854": "Terzo Quarto"
+    },
+    {
+      "69855": "Quarto Quarto"
+    },
+    {
+      "71406": "Prima Semifinale"
+    },
+    {
+      "71407": "Seconda Semifinale"
+    },
+    {
+      "73252": "Finale"
+    },
+    {
+      "66764": "Girone A"
+    },
+    {
+      "70048": "Girone A"
+    },
+    {
+      "70049": "Girone B"
+    },
+    {
+      "73706": "Prima Semifinale"
+    },
+    {
+      "73707": "Seconda Semifinale"
+    },
+    {
+      "73708": "Finale terzo posto"
+    },
+    {
+      "73709": "Finale primo posto"
+    },
+    {
+      "66698": "Girone A"
+    },
+    {
+      "69054": "Girone Finale Titolo"
+    },
+    {
+      "69130": "Girone Finale Coppa Toscana"
+    },
+    {
+      "73726": "Prima Semifinale"
+    },
+    {
+      "73727": "Seconda Semifinale"
+    },
+    {
+      "73730": "Finale terzo posto"
+    },
+    {
+      "73731": "Finale primo posto"
+    },
+    {
+      "66720": "Girone A"
+    },
+    {
+      "66721": "Girone B"
+    },
+    {
+      "68764": "Girone C"
+    },
+    {
+      "68767": "Girone D"
+    },
+    {
+      "72551": "Prima Semifinale"
+    },
+    {
+      "72552": "Seconda Semifinale"
+    },
+    {
+      "73356": "Prima Semifinale"
+    },
+    {
+      "73357": "Seconda Semifinale"
+    },
+    {
+      "73358": "Finale terzo posto"
+    },
+    {
+      "73359": "Finale primo posto"
+    },
+    {
+      "66757": "Girone A"
+    },
+    {
+      "66758": "Girone B"
+    },
+    {
+      "66759": "Girone C"
+    },
+    {
+      "66760": "Girone D"
+    },
+    {
+      "68262": "Girone E Titolo"
+    },
+    {
+      "68263": "Girone F Coppa Toscana"
+    },
+    {
+      "68264": "Girone G Coppa Toscana"
+    },
+    {
+      "70528": "Girone H"
+    },
+    {
+      "70529": "Girone I"
+    },
+    {
+      "71013": "Girone L"
+    },
+    {
+      "71014": "Girone M"
+    },
+    {
+      "74243": "Prima Semifinale"
+    },
+    {
+      "74244": "Seconda Semifinale"
+    },
+    {
+      "74245": "Prima Semifinale"
+    },
+    {
+      "74246": "Seconda Semifinale"
+    },
+    {
+      "74473": "Prima Semifinale"
+    },
+    {
+      "74474": "Seconda Semifinale"
+    },
+    {
+      "74475": "Finale terzo posto"
+    },
+    {
+      "74476": "Finale primo posto"
+    },
+    {
+      "66954": "Girone A"
+    },
+    {
+      "66955": "Girone B"
+    },
+    {
+      "68768": "Girone C Titolo"
+    },
+    {
+      "68769": "Girone D Coppa Toscana"
+    },
+    {
+      "74247": "Prima Semifinale"
+    },
+    {
+      "74248": "Seconda Semifinale"
+    },
+    {
+      "74249": "Finale terzo posto"
+    },
+    {
+      "74250": "Seconda Semifinale"
+    },
+    {
+      "74253": "Prima Semifinale"
+    },
+    {
+      "74254": "Seconda Semifinale"
+    },
+    {
+      "74255": "Prima Semifinale"
+    },
+    {
+      "74256": "Seconda Semifinale"
+    },
+    {
+      "66956": "Girone A"
+    },
+    {
+      "66957": "Girone B"
+    },
+    {
+      "68917": "Lega 5 Atlantic D."
+    },
+    {
+      "68918": "Lega 5 Central D."
+    },
+    {
+      "71029": "Girone G"
+    },
+    {
+      "71038": "Girone E"
+    },
+    {
+      "71039": "Girone F"
+    },
+    {
+      "71564": "Prima Semifinale"
+    },
+    {
+      "71565": "Seconda Semifinale"
+    },
+    {
+      "71605": "Prima Semifinale"
+    },
+    {
+      "71606": "Seconda Semifinale"
+    },
+    {
+      "72544": "Finale"
+    },
+    {
+      "74714": "Prima Semifinale"
+    },
+    {
+      "74715": "Seconda Semifinale"
+    },
+    {
+      "74727": "Finale terzo posto"
+    },
+    {
+      "74728": "Finale primo posto"
+    },
+    {
+      "66280": "Incontro 1"
+    },
+    {
+      "66281": "Incontro 2"
+    },
+    {
+      "66282": "Incontro 3"
+    },
+    {
+      "66436": "Primo Quarto"
+    },
+    {
+      "66437": "Secondo Quarto"
+    },
+    {
+      "66438": "Terzo Quarto"
+    },
+    {
+      "66439": "Quarto Quarto"
+    },
+    {
+      "67880": "Prima Semifinale"
+    },
+    {
+      "67881": "Seconda Semifinale"
+    },
+    {
+      "68050": "Finale"
+    },
+    {
+      "67483": "Girone A"
+    },
+    {
+      "67484": "Girone B"
+    },
+    {
+      "67485": "Girone C"
+    },
+    {
+      "67486": "Girone D"
+    },
+    {
+      "68753": "Girone E"
+    },
+    {
+      "68754": "Girone F"
+    },
+    {
+      "68757": "Girone G"
+    }
+  ]
+}

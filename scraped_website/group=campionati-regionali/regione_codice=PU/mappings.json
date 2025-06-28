@@ -1,0 +1,1326 @@
+{
+  "comitato_codice": [
+    {
+      "RPU": "BARI"
+    }
+  ],
+  "sesso": [
+    {
+      "M": "Campionati Maschili"
+    },
+    {
+      "F": "Campionati Femminili"
+    }
+  ],
+  "codice_campionato": [
+    {
+      "B2": "Serie B Interregionale"
+    },
+    {
+      "C1": "Serie C"
+    },
+    {
+      "D": "Divisione regionale 1"
+    },
+    {
+      "PM": "Divisione regionale 2"
+    },
+    {
+      "1DM": "Divisione regionale 3"
+    },
+    {
+      "U19G/M": "Under 19 Maschile Gold"
+    },
+    {
+      "U19S/M": "Under 19 Maschile Regionale"
+    },
+    {
+      "U17/E": "Under 17 Maschile Eccellenza"
+    },
+    {
+      "U17S/M": "Under 17 Maschile Regionale"
+    },
+    {
+      "U15/E": "Under 15 Maschile Eccellenza"
+    },
+    {
+      "U15S/M": "Under 15 Maschile Regionale"
+    },
+    {
+      "U14G/M": "Under 14 Maschile Gold"
+    },
+    {
+      "U14S/M": "Under 14 Maschile Regionale"
+    },
+    {
+      "U13G/M": "Under 13 Maschile Gold"
+    },
+    {
+      "U13S/M": "Under 13 Maschile Regionale"
+    },
+    {
+      "C/F": "Serie C Femminile"
+    },
+    {
+      "U17/F": "Under 17 Femminile Regionale"
+    },
+    {
+      "U15/F": "Under 15 Femminile Regionale"
+    },
+    {
+      "U14/F": "Under 14 Femminile Regionale"
+    },
+    {
+      "U13/F": "Under 13 Femminile Regionale"
+    }
+  ],
+  "codice_fase": [
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "2": "SECONDA FASE"
+    },
+    {
+      "3": "PLAYOUT Semifinali"
+    },
+    {
+      "4": "PLAYOUT Finali"
+    },
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "2": "PLAYOFF 1^ Turno"
+    },
+    {
+      "3": "PLAYOUT Semifinali"
+    },
+    {
+      "4": "PLAYOFF 2\u00b0 Turno"
+    },
+    {
+      "5": "PLAYOUT Finale"
+    },
+    {
+      "6": "PLAYOFF 3\u00b0 Turno"
+    },
+    {
+      "8": "Finale di Conference"
+    },
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "2": "PLAY-OFF OROLOGIO"
+    },
+    {
+      "3": "PLAY-OUT OROLOGIO"
+    },
+    {
+      "4": "PLAY-OUT"
+    },
+    {
+      "5": "PLAY-OFF"
+    },
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "4": "Play Off Semifinale"
+    },
+    {
+      "7": "Play Out Semifinale"
+    },
+    {
+      "8": "Finali Play Off / Ou"
+    },
+    {
+      "9": "Play Off - 3^ fase"
+    },
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "2": "Play Off"
+    },
+    {
+      "3": "Finale Play Off"
+    },
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "2": "OROLOGIO"
+    },
+    {
+      "3": "COPPA PUGLIA"
+    },
+    {
+      "4": "SEMIFINALE COPPA PUG"
+    },
+    {
+      "5": "FINALE COPPA PUGLIA"
+    },
+    {
+      "6": "SEMIFINALI FINAL FOU"
+    },
+    {
+      "7": "FINALE FINAL FOUR"
+    },
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "2": "FASE ORO"
+    },
+    {
+      "3": "FASE COPPA PUGLIA"
+    },
+    {
+      "4": "FINAL EIGHT COPPA PU"
+    },
+    {
+      "5": "SEMIFINALE COPPA PUG"
+    },
+    {
+      "6": "FINALE COPPA PUGLIA"
+    },
+    {
+      "7": "FINAL EIGHT ORO"
+    },
+    {
+      "8": "SEMIFINALI FINAL FOU"
+    },
+    {
+      "9": "FINALE FINAL FOUR OR"
+    },
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "2": "FINAL EIGHT"
+    },
+    {
+      "3": "FINAL FOUR Semifinal"
+    },
+    {
+      "4": "FINAL FOUR Finale"
+    },
+    {
+      "5": "COPPA PUGLIA"
+    },
+    {
+      "7": "COPPA PUGLIA PlayOff"
+    },
+    {
+      "9": "COPPA PUGLIA Final F"
+    },
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "2": "FASE ORO"
+    },
+    {
+      "3": "COPPA PUGLIA"
+    },
+    {
+      "4": "OTTAVI DI FINALE COP"
+    },
+    {
+      "5": "OTTAVI DI FINALE ORO"
+    },
+    {
+      "6": "FINAL EIGHT ORO"
+    },
+    {
+      "7": "FINAL EIGHT COPPA PU"
+    },
+    {
+      "8": "SEMIFINALE COPPA PUG"
+    },
+    {
+      "9": "FINALE COPPA PUGLIA"
+    },
+    {
+      "A": "SEMIFINALE ORO"
+    },
+    {
+      "B": "FINALE ORO"
+    },
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "2": "FINAL FOUR Semifinal"
+    },
+    {
+      "3": "FINAL FOUR Finali"
+    },
+    {
+      "4": "COPPA PUGLIA"
+    },
+    {
+      "6": "FINAL FOUR Coppa Pug"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "2": "ORO"
+    },
+    {
+      "3": "SILVER"
+    },
+    {
+      "4": "Semifinale FINAL FOU"
+    },
+    {
+      "5": "FINALE 15/M  reg. OR"
+    },
+    {
+      "6": "FINAL EIGHT"
+    },
+    {
+      "7": "Semifinale Final Fou"
+    },
+    {
+      "8": "Finale Coppa Puglia"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "2": "Gare solo andata"
+    },
+    {
+      "3": "Semifinale under 14M"
+    },
+    {
+      "4": "FINALE U14/M GOLD"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "2": "Silver"
+    },
+    {
+      "3": "ORO"
+    },
+    {
+      "4": "Semifinali FINAL FOU"
+    },
+    {
+      "5": "Finale Final Four"
+    },
+    {
+      "6": "FINAL EIGHT"
+    },
+    {
+      "7": "Final four Coppa Pug"
+    },
+    {
+      "8": "Finale Coppa Puglia"
+    },
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "2": "LEGA 34 EASTERN CONF"
+    },
+    {
+      "3": "LEGA 34 WESTERN CONF"
+    },
+    {
+      "4": "LEGA 35 EASTERN CONF"
+    },
+    {
+      "5": "LEGA 35 WESTERN CONF"
+    },
+    {
+      "6": "OROLOGIO LEGA 35 EAS"
+    },
+    {
+      "7": "OROLOGIO LEGA 35 WES"
+    },
+    {
+      "8": "SPAREGGIO LEGA 34"
+    },
+    {
+      "C": "SEMIFINALI FINAL FOU"
+    },
+    {
+      "D": "FINALE FINAL FOUR LE"
+    },
+    {
+      "B": "SPAREGGIO AMMISSIONE"
+    },
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "2": "PLAY-OFF Semifinale"
+    },
+    {
+      "3": "PLAY-OFF Finale"
+    },
+    {
+      "4": "COPPA PUGLIA"
+    },
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "2": "OROLOGIO"
+    },
+    {
+      "3": "FINAL FOUR - Semifin"
+    },
+    {
+      "4": "FINAL FOUR - Finale"
+    },
+    {
+      "6": "COPPA PUGLIA GIRONE"
+    },
+    {
+      "7": "FINALE COPPA PUGLIA"
+    },
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "2": "OROLOGIO"
+    },
+    {
+      "3": "FINAL FOUR - Semifin"
+    },
+    {
+      "4": "FINAL FOUR - Finale"
+    },
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "2": "OROLOGIO"
+    },
+    {
+      "3": "FINAL FOUR - Semifin"
+    },
+    {
+      "4": "FINAL FOUR - Finale"
+    },
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "2": "OROLOGIO - GOLD"
+    },
+    {
+      "3": "SILVER"
+    },
+    {
+      "4": "FINAL FOUR - Semifin"
+    },
+    {
+      "5": "FINAL FOUR - Finale"
+    },
+    {
+      "6": "FINALE LEGA N.7 JrNB"
+    },
+    {
+      "8": "FINAL FOUR SILVER -"
+    }
+  ],
+  "codice_girone": [
+    {
+      "66199": "Division G"
+    },
+    {
+      "68823": "PLAY-IN OUT"
+    },
+    {
+      "71834": "Primo Quarto"
+    },
+    {
+      "71835": "Secondo Quarto"
+    },
+    {
+      "71836": "Terzo Quarto"
+    },
+    {
+      "71837": "Quarto Quarto"
+    },
+    {
+      "73542": "Prima Semifinale"
+    },
+    {
+      "73543": "Seconda Semifinale"
+    },
+    {
+      "66229": "DIVISION O"
+    },
+    {
+      "71235": "Primo Quarto"
+    },
+    {
+      "71236": "Secondo Quarto"
+    },
+    {
+      "71237": "Terzo Quarto"
+    },
+    {
+      "71238": "Quarto Quarto"
+    },
+    {
+      "71240": "Prima Semifinale"
+    },
+    {
+      "71241": "Seconda Semifinale"
+    },
+    {
+      "72784": "Prima Semifinale"
+    },
+    {
+      "72785": "Seconda Semifinale"
+    },
+    {
+      "73544": "Finale"
+    },
+    {
+      "73940": "Finale"
+    },
+    {
+      "74767": "Finale"
+    },
+    {
+      "66252": "Girone A"
+    },
+    {
+      "66253": "Girone B"
+    },
+    {
+      "69719": "Girone A"
+    },
+    {
+      "69759": "Girone B"
+    },
+    {
+      "69747": "Girone A"
+    },
+    {
+      "69748": "Girone B"
+    },
+    {
+      "71793": "Prima Semifinale"
+    },
+    {
+      "71794": "Seconda Semifinale"
+    },
+    {
+      "71838": "Prima Semifinale"
+    },
+    {
+      "71839": "Seconda Semifinale"
+    },
+    {
+      "67088": "Girone A"
+    },
+    {
+      "67089": "Girone B"
+    },
+    {
+      "67090": "Girone C"
+    },
+    {
+      "69997": "Prima Semifinale"
+    },
+    {
+      "69998": "Seconda Semifinale"
+    },
+    {
+      "70003": "Prima Semifinale"
+    },
+    {
+      "70004": "Seconda Semifinale"
+    },
+    {
+      "71191": "Play Off gir A"
+    },
+    {
+      "71192": "Play Off gir B"
+    },
+    {
+      "71193": "Play Off gir C"
+    },
+    {
+      "71194": "Play Out gir A"
+    },
+    {
+      "71195": "Play Out gir B"
+    },
+    {
+      "71196": "Play Out gir C"
+    },
+    {
+      "73513": "Prima Finale"
+    },
+    {
+      "73514": "Seconda Finale"
+    },
+    {
+      "67607": "Girone A"
+    },
+    {
+      "67608": "Girone B"
+    },
+    {
+      "67610": "Girone D"
+    },
+    {
+      "67653": "Girone C"
+    },
+    {
+      "71019": "Play Off 1A vs 4B"
+    },
+    {
+      "71020": "Play Off 2A vs 3B"
+    },
+    {
+      "71021": "Play Off 2B vs 3A"
+    },
+    {
+      "71022": "Play Off 1B vs 4A"
+    },
+    {
+      "71023": "Play Off 1C vs 4D"
+    },
+    {
+      "71024": "Play Off 2C vs 3D"
+    },
+    {
+      "71025": "Play Off 2D vs 3C"
+    },
+    {
+      "71026": "Play Off 1D vs 4C"
+    },
+    {
+      "73515": "Prima Finale"
+    },
+    {
+      "73516": "Seconda Finale"
+    },
+    {
+      "73517": "Terza Finale"
+    },
+    {
+      "73518": "Quarta Finale"
+    },
+    {
+      "66454": "Girone A"
+    },
+    {
+      "66455": "Girone B"
+    },
+    {
+      "69175": "Girone A"
+    },
+    {
+      "69245": "Girone A"
+    },
+    {
+      "71669": "Prima Semifinale"
+    },
+    {
+      "71670": "Seconda Semifinale"
+    },
+    {
+      "71671": "Finale"
+    },
+    {
+      "72309": "Prima Semifinale"
+    },
+    {
+      "72310": "Seconda Semifinale"
+    },
+    {
+      "72312": "Finale"
+    },
+    {
+      "67129": "Girone A"
+    },
+    {
+      "67130": "Girone B"
+    },
+    {
+      "67131": "Girone C"
+    },
+    {
+      "67132": "Girone D"
+    },
+    {
+      "67133": "Girone E"
+    },
+    {
+      "67134": "Girone F"
+    },
+    {
+      "67135": "Girone G"
+    },
+    {
+      "67136": "Girone H"
+    },
+    {
+      "68683": "Girone A"
+    },
+    {
+      "68684": "Girone B"
+    },
+    {
+      "68685": "Girone A"
+    },
+    {
+      "68686": "Girone B"
+    },
+    {
+      "68687": "Girone C"
+    },
+    {
+      "68688": "Girone D"
+    },
+    {
+      "72885": "Primo Quarto"
+    },
+    {
+      "72886": "Secondo Quarto"
+    },
+    {
+      "72887": "Terzo Quarto"
+    },
+    {
+      "72888": "Quarto Quarto"
+    },
+    {
+      "73858": "Prima Semifinale"
+    },
+    {
+      "73859": "Seconda Semifinale"
+    },
+    {
+      "73866": "Finale"
+    },
+    {
+      "74274": "Primo Quarto"
+    },
+    {
+      "74275": "Secondo Quarto"
+    },
+    {
+      "74276": "Terzo Quarto"
+    },
+    {
+      "74277": "Quarto Quarto"
+    },
+    {
+      "74716": "Prima Semifinale"
+    },
+    {
+      "74717": "Seconda Semifinale"
+    },
+    {
+      "74719": "Finale"
+    },
+    {
+      "66312": "Girone A"
+    },
+    {
+      "66313": "Girone B"
+    },
+    {
+      "68958": "Primo Quarto"
+    },
+    {
+      "68959": "Secondo Quarto"
+    },
+    {
+      "68960": "Terzo Quarto"
+    },
+    {
+      "68961": "Quarto Quarto"
+    },
+    {
+      "69008": "Prima Semifinale"
+    },
+    {
+      "69009": "Seconda Semifinale"
+    },
+    {
+      "69010": "Prima Semifinale"
+    },
+    {
+      "69011": "Seconda Semifinale"
+    },
+    {
+      "69271": "Girone A"
+    },
+    {
+      "73765": "Primo Quarto"
+    },
+    {
+      "73766": "Secondo Quarto"
+    },
+    {
+      "73767": "Terzo Quarto"
+    },
+    {
+      "73768": "Quarto Quarto"
+    },
+    {
+      "74415": "Finale"
+    },
+    {
+      "67151": "Girone A"
+    },
+    {
+      "67152": "Girone B"
+    },
+    {
+      "67153": "Girone C"
+    },
+    {
+      "67154": "Girone D"
+    },
+    {
+      "67155": "Girone E"
+    },
+    {
+      "67156": "Girone F"
+    },
+    {
+      "67157": "Girone G"
+    },
+    {
+      "67158": "Girone H"
+    },
+    {
+      "69079": "Girone A"
+    },
+    {
+      "69080": "Girone B"
+    },
+    {
+      "69081": "Girone C"
+    },
+    {
+      "69082": "Girone D"
+    },
+    {
+      "69083": "Girone A"
+    },
+    {
+      "69086": "Girone B"
+    },
+    {
+      "69087": "Girone C"
+    },
+    {
+      "69088": "Girone D"
+    },
+    {
+      "74862": "Primo Ottavo"
+    },
+    {
+      "74863": "Secondo Ottavo"
+    },
+    {
+      "74864": "Terzo Ottavo"
+    },
+    {
+      "74865": "Quarto Ottavo"
+    },
+    {
+      "74866": "Quinto Ottavo"
+    },
+    {
+      "74867": "Sesto Ottavo"
+    },
+    {
+      "74868": "Settimo Ottavo"
+    },
+    {
+      "74869": "Ottavo Ottavo"
+    },
+    {
+      "74886": "Primo Ottavo"
+    },
+    {
+      "74887": "Secondo Ottavo"
+    },
+    {
+      "74888": "Terzo Ottavo"
+    },
+    {
+      "74889": "Quarto Ottavo"
+    },
+    {
+      "74890": "Quinto Ottavo"
+    },
+    {
+      "74891": "Sesto Ottavo"
+    },
+    {
+      "74892": "Settimo Ottavo"
+    },
+    {
+      "74893": "Ottavo Ottavo"
+    },
+    {
+      "74917": "Primo Quarto"
+    },
+    {
+      "74918": "Secondo Quarto"
+    },
+    {
+      "74919": "Terzo Quarto"
+    },
+    {
+      "74920": "Quarto Quarto"
+    },
+    {
+      "74925": "Primo Quarto"
+    },
+    {
+      "74926": "Secondo Quarto"
+    },
+    {
+      "74927": "Terzo Quarto"
+    },
+    {
+      "74928": "Quarto Quarto"
+    },
+    {
+      "74945": "Prima Semifinale"
+    },
+    {
+      "74946": "Seconda Semifinale"
+    },
+    {
+      "74947": "Finale"
+    },
+    {
+      "74949": "Prima Semifinale"
+    },
+    {
+      "74950": "Seconda Semifinale"
+    },
+    {
+      "74951": "Finale"
+    },
+    {
+      "66459": "Girone A"
+    },
+    {
+      "70633": "Prima Semifinale"
+    },
+    {
+      "70634": "Seconda Semifinale"
+    },
+    {
+      "70635": "Prima Semifinale"
+    },
+    {
+      "70636": "Seconda Semifinale"
+    },
+    {
+      "70758": "Girone A"
+    },
+    {
+      "74910": "Finale"
+    },
+    {
+      "67170": "Girone D"
+    },
+    {
+      "67171": "Girone E"
+    },
+    {
+      "67172": "Girone F"
+    },
+    {
+      "67194": "Girone H"
+    },
+    {
+      "67281": "Girone I"
+    },
+    {
+      "67282": "Girone B"
+    },
+    {
+      "67286": "Girone C"
+    },
+    {
+      "67287": "Girone G"
+    },
+    {
+      "67288": "Girone A"
+    },
+    {
+      "68773": "Girone A"
+    },
+    {
+      "68774": "Girone B"
+    },
+    {
+      "68775": "Girone C"
+    },
+    {
+      "68776": "Girone A"
+    },
+    {
+      "68777": "Girone B"
+    },
+    {
+      "68778": "Girone C"
+    },
+    {
+      "68779": "Girone D"
+    },
+    {
+      "68780": "Girone E"
+    },
+    {
+      "68781": "Girone F"
+    },
+    {
+      "73169": "Prima Semifinale"
+    },
+    {
+      "73170": "Seconda Semifinale"
+    },
+    {
+      "73171": "Finale"
+    },
+    {
+      "73246": "Girone A"
+    },
+    {
+      "74283": "Prima Semifinale"
+    },
+    {
+      "74284": "Seconda Semifinale"
+    },
+    {
+      "74285": "Finale"
+    },
+    {
+      "67206": "Girone A"
+    },
+    {
+      "70166": "Girone A"
+    },
+    {
+      "74941": "Prima Semifinale"
+    },
+    {
+      "74942": "Seconda Semifinale"
+    },
+    {
+      "74943": "Finale"
+    },
+    {
+      "67182": "Girone E"
+    },
+    {
+      "67183": "Girone F"
+    },
+    {
+      "67184": "Girone G"
+    },
+    {
+      "67185": "Girone H"
+    },
+    {
+      "67186": "Girone I"
+    },
+    {
+      "67289": "Girone A"
+    },
+    {
+      "67290": "Girone B"
+    },
+    {
+      "67291": "Girone C"
+    },
+    {
+      "67292": "Girone D"
+    },
+    {
+      "68737": "Girone A"
+    },
+    {
+      "68738": "Girone B"
+    },
+    {
+      "68741": "Girone C"
+    },
+    {
+      "68742": "Girone D"
+    },
+    {
+      "68743": "Girone E"
+    },
+    {
+      "68745": "Girone F"
+    },
+    {
+      "68758": "Girone A"
+    },
+    {
+      "68759": "Girone B"
+    },
+    {
+      "68760": "Girone C"
+    },
+    {
+      "68761": "Girone D"
+    },
+    {
+      "72822": "Prima Semifinale"
+    },
+    {
+      "72823": "Seconda Semifinale"
+    },
+    {
+      "72839": "Finale"
+    },
+    {
+      "72844": "Girone A"
+    },
+    {
+      "74322": "Prima Semifinale"
+    },
+    {
+      "74323": "Seconda Semifinale"
+    },
+    {
+      "74336": "Finale"
+    },
+    {
+      "67294": "Girone A"
+    },
+    {
+      "67208": "Girone A"
+    },
+    {
+      "67209": "Girone B"
+    },
+    {
+      "67210": "Girone C"
+    },
+    {
+      "67211": "Girone D"
+    },
+    {
+      "67212": "Girone E"
+    },
+    {
+      "67213": "Girone F"
+    },
+    {
+      "67214": "Girone G"
+    },
+    {
+      "67215": "Girone H"
+    },
+    {
+      "67216": "Girone I"
+    },
+    {
+      "67217": "Girone J"
+    },
+    {
+      "67218": "Girone K"
+    },
+    {
+      "68304": "Girone A"
+    },
+    {
+      "68305": "Girone A"
+    },
+    {
+      "68309": "Girone A"
+    },
+    {
+      "68310": "Girone B"
+    },
+    {
+      "68311": "Girone C"
+    },
+    {
+      "68312": "Girone D"
+    },
+    {
+      "68313": "Girone E"
+    },
+    {
+      "68320": "Girone A"
+    },
+    {
+      "68321": "Girone B"
+    },
+    {
+      "68322": "Girone C"
+    },
+    {
+      "68323": "Girone D"
+    },
+    {
+      "68324": "Girone E"
+    },
+    {
+      "71538": "Girone A"
+    },
+    {
+      "71541": "Girone A"
+    },
+    {
+      "73258": "Prima Semifinale"
+    },
+    {
+      "73259": "Seconda Semifinale"
+    },
+    {
+      "74819": "Prima Semifinale"
+    },
+    {
+      "74820": "Seconda Semifinale"
+    },
+    {
+      "74821": "Finale"
+    },
+    {
+      "74577": "Finale"
+    },
+    {
+      "67369": "Girone A"
+    },
+    {
+      "69194": "Prima Semifinale"
+    },
+    {
+      "69195": "Seconda Semifinale"
+    },
+    {
+      "69828": "Finale"
+    },
+    {
+      "69839": "Finale"
+    },
+    {
+      "67235": "Girone A"
+    },
+    {
+      "67236": "Girone B"
+    },
+    {
+      "68930": "Girone A"
+    },
+    {
+      "68931": "Girone B"
+    },
+    {
+      "70637": "Prima Semifinale"
+    },
+    {
+      "70638": "Seconda Semifinale"
+    },
+    {
+      "70639": "Finale"
+    },
+    {
+      "73646": "Girone A"
+    },
+    {
+      "74955": "Finale"
+    },
+    {
+      "67334": "Girone A"
+    },
+    {
+      "67335": "Girone B"
+    },
+    {
+      "69002": "Girone A"
+    },
+    {
+      "69003": "Girone B"
+    },
+    {
+      "70311": "Prima Semifinale"
+    },
+    {
+      "70312": "Seconda Semifinale"
+    },
+    {
+      "70376": "Finale"
+    },
+    {
+      "67397": "Girone A"
+    },
+    {
+      "67398": "Girone B"
+    },
+    {
+      "73114": "Girone A"
+    },
+    {
+      "73115": "Girone B"
+    },
+    {
+      "74929": "Prima Semifinale"
+    },
+    {
+      "74930": "Seconda Semifinale"
+    },
+    {
+      "74931": "Finale"
+    },
+    {
+      "67433": "Girone A"
+    },
+    {
+      "67434": "Girone B"
+    },
+    {
+      "67435": "Girone C"
+    },
+    {
+      "69785": "Girone A"
+    },
+    {
+      "70062": "Girone A"
+    },
+    {
+      "70063": "Girone B"
+    },
+    {
+      "73236": "Prima Semifinale"
+    },
+    {
+      "73237": "Seconda Semifinale"
+    },
+    {
+      "73242": "Finale"
+    },
+    {
+      "74170": "Finale"
+    },
+    {
+      "74803": "Finale"
+    }
+  ]
+}

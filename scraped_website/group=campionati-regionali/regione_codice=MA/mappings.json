@@ -1,0 +1,1152 @@
+{
+  "comitato_codice": [
+    {
+      "RMA": "ANCONA"
+    }
+  ],
+  "sesso": [
+    {
+      "M": "Campionati Maschili"
+    },
+    {
+      "F": "Campionati Femminili"
+    }
+  ],
+  "codice_campionato": [
+    {
+      "C1": "Serie C"
+    },
+    {
+      "D": "Divisione regionale 1"
+    },
+    {
+      "PM": "Divisione regionale 2"
+    },
+    {
+      "1DM": "Divisione regionale 3"
+    },
+    {
+      "U19G/M": "Under 19 Maschile Gold"
+    },
+    {
+      "U19S/M": "Under 19 Maschile Regionale"
+    },
+    {
+      "U17/E": "Under 17 Maschile Eccellenza"
+    },
+    {
+      "U17G/M": "Under 17 Maschile Gold"
+    },
+    {
+      "U17S/M": "Under 17 Maschile Regionale"
+    },
+    {
+      "U15/E": "Under 15 Maschile Eccellenza"
+    },
+    {
+      "U15S/M": "Under 15 Maschile Regionale"
+    },
+    {
+      "U14G/M": "Under 14 Maschile Gold"
+    },
+    {
+      "U14S/M": "Under 14 Maschile Regionale"
+    },
+    {
+      "U13S/M": "Under 13 Maschile Regionale"
+    },
+    {
+      "ES": "Trofeo Esordienti"
+    },
+    {
+      "ESO": "Trofeo Esordienti OPEN"
+    },
+    {
+      "TAQB": "Aquilotti Big"
+    },
+    {
+      "TAQS": "Aquilotti Small"
+    },
+    {
+      "TAQO": "Aquilotti OPEN"
+    },
+    {
+      "U19/F": "Under 19 Femminile Regionale"
+    },
+    {
+      "U15/F": "Under 15 Femminile Regionale"
+    },
+    {
+      "U14/F": "Under 14 Femminile Regionale"
+    },
+    {
+      "U13/F": "Under 13 Femminile Regionale"
+    }
+  ],
+  "codice_fase": [
+    {
+      "1": "PRIMA FASE"
+    },
+    {
+      "2": "1 turno P.OFF"
+    },
+    {
+      "3": "Semif. P.OUT"
+    },
+    {
+      "4": "2 turno P.OFF"
+    },
+    {
+      "5": "2 turno P.OUT"
+    },
+    {
+      "6": "3 turno P.OFF"
+    },
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "2": "P.OFF-QUARTI"
+    },
+    {
+      "3": "P.OUT-1 turno"
+    },
+    {
+      "4": "P.OFF-SEMIF."
+    },
+    {
+      "5": "P.OUT-2 turno"
+    },
+    {
+      "6": "P.OFF-FINALI"
+    },
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "2": "Semif P.OFF A"
+    },
+    {
+      "3": "Semif P.OFF B"
+    },
+    {
+      "4": "Semif P.OFF C"
+    },
+    {
+      "5": "Fin. P.OFF A"
+    },
+    {
+      "6": "Fin. P.OFF B"
+    },
+    {
+      "7": "Fin. P.OFF C"
+    },
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "2": "Orologio-gir.B"
+    },
+    {
+      "3": "Semifinali P.OFF"
+    },
+    {
+      "4": "Semif.COPPA M."
+    },
+    {
+      "5": "Finale P.OFF"
+    },
+    {
+      "6": "Finale C.MARCHE"
+    },
+    {
+      "1": "UNICA"
+    },
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "2": "2^FASE"
+    },
+    {
+      "1": "1^Fase-QUALIFICAZION"
+    },
+    {
+      "2": "PLAY IN-1^turno"
+    },
+    {
+      "3": "PLAY OFF"
+    },
+    {
+      "4": "PLAY IN-2^turno"
+    },
+    {
+      "5": "3^Fase-Prosec.Reg."
+    },
+    {
+      "6": "Fase Interregionale"
+    },
+    {
+      "7": "COPPA REG-Ottavi"
+    },
+    {
+      "8": "COPPA REG-Quarti"
+    },
+    {
+      "9": "COPPA REG-Semif"
+    },
+    {
+      "A": "COPPA REG-Finale"
+    },
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "2": "2^FASE"
+    },
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "2": "Quarti P.OFF"
+    },
+    {
+      "3": "Quarti COPPA MARCHE"
+    },
+    {
+      "4": "Quarti Prosecuzione"
+    },
+    {
+      "5": "Semif. P.OFF"
+    },
+    {
+      "6": "Semif.COPPA M."
+    },
+    {
+      "7": "Semif Prosecuzione"
+    },
+    {
+      "8": "Finale P.OFF"
+    },
+    {
+      "9": "Finale Prosecuzione"
+    },
+    {
+      "A": "Finale COPPA M."
+    },
+    {
+      "1": "GIR. UNICO"
+    },
+    {
+      "2": "Coppa Reg.le"
+    },
+    {
+      "3": "Semif.Coppa"
+    },
+    {
+      "4": "Fin.COPPA"
+    },
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "2": "2^Fase-TOP"
+    },
+    {
+      "3": "2^Fase-BASIC"
+    },
+    {
+      "4": "Quarti P.OFF"
+    },
+    {
+      "5": "Quarti COPPA MARCHE"
+    },
+    {
+      "6": "Semif.COPPA MARCHE"
+    },
+    {
+      "7": "Finale C.BASIC"
+    },
+    {
+      "8": "Semif.P.OFF"
+    },
+    {
+      "9": "Finale C.MARCHE"
+    },
+    {
+      "A": "Finale P.OFF"
+    },
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "2": "Titolo Regionale"
+    },
+    {
+      "3": "2^fase-Prosecuzione"
+    },
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "2": "Quarti P.OFF"
+    },
+    {
+      "3": "Quarti COPPA SILVER"
+    },
+    {
+      "4": "Semif.P.OFF"
+    },
+    {
+      "5": "Semif COPPA Silver"
+    },
+    {
+      "6": "Finale P.OFF"
+    },
+    {
+      "7": "Fin.COPPA Silver"
+    },
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "2": "JrNBA U13M"
+    },
+    {
+      "3": "QUARTI GOLD Jr.NBA"
+    },
+    {
+      "4": "Semif.Silver Jr.NBA"
+    },
+    {
+      "5": "SEMIF. JrNBA"
+    },
+    {
+      "6": "FINALE JrNBA"
+    },
+    {
+      "7": "Finale SILVER"
+    },
+    {
+      "8": "JrNBA 1 spareggio"
+    },
+    {
+      "1": "UNICA"
+    },
+    {
+      "2": "2 fase-Gir.A"
+    },
+    {
+      "3": "Gir.B-2\u00b0 FASE"
+    },
+    {
+      "4": "2 fase-Mc"
+    },
+    {
+      "1": "UNICA"
+    },
+    {
+      "1": "UNICA"
+    },
+    {
+      "2": "2 fase-A"
+    },
+    {
+      "1": "UNICA"
+    },
+    {
+      "2": "2 fase"
+    },
+    {
+      "3": "2 fase-MC"
+    },
+    {
+      "1": "UNICA"
+    },
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "2": "2^FASE"
+    },
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "2": "2^Qual-Gir.B"
+    },
+    {
+      "3": "Ammissione Naz.le"
+    },
+    {
+      "4": "Coppa UMA"
+    },
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "2": "2^FASE"
+    },
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "2": "Jr.NBA U13F"
+    },
+    {
+      "3": "Semiginali Jr.NBA U1"
+    },
+    {
+      "4": "FINALE JrNBA"
+    },
+    {
+      "5": "JrNBA 1 spareggio"
+    }
+  ],
+  "codice_girone": [
+    {
+      "66221": "Div.M"
+    },
+    {
+      "70888": "gara 1"
+    },
+    {
+      "70889": "gara 2"
+    },
+    {
+      "70890": "gara 3"
+    },
+    {
+      "70891": "gara 4"
+    },
+    {
+      "70892": "gara 1"
+    },
+    {
+      "70893": "gara 2"
+    },
+    {
+      "72463": "Gara 5"
+    },
+    {
+      "72464": "Gara 6"
+    },
+    {
+      "72829": "Gara 3"
+    },
+    {
+      "73769": "Gara 7"
+    },
+    {
+      "66242": "Gir.A"
+    },
+    {
+      "66243": "Gir.B"
+    },
+    {
+      "70296": "Gara 1"
+    },
+    {
+      "70297": "Gara 2"
+    },
+    {
+      "70298": "Gara 3"
+    },
+    {
+      "70299": "Gara 4"
+    },
+    {
+      "70300": "Gara 5"
+    },
+    {
+      "70301": "Gara 6"
+    },
+    {
+      "70302": "Gara 7"
+    },
+    {
+      "70303": "Gara 8"
+    },
+    {
+      "70305": "Gara 18"
+    },
+    {
+      "70306": "Gara 19"
+    },
+    {
+      "70307": "Gara 20"
+    },
+    {
+      "71778": "Gara 9"
+    },
+    {
+      "71779": "Gara 10"
+    },
+    {
+      "71780": "Gara 11"
+    },
+    {
+      "71781": "Gara 12"
+    },
+    {
+      "71787": "P.Out"
+    },
+    {
+      "73400": "g.13 Finale 1"
+    },
+    {
+      "73401": "g.14 Finale 2"
+    },
+    {
+      "66502": "Gir.A"
+    },
+    {
+      "66503": "Gir.B"
+    },
+    {
+      "66504": "Gir.C"
+    },
+    {
+      "71992": "Gara 1"
+    },
+    {
+      "71993": "Gara 2"
+    },
+    {
+      "71994": "Gara 3"
+    },
+    {
+      "71995": "Gara 4"
+    },
+    {
+      "71996": "Gara 5"
+    },
+    {
+      "71997": "Gara 6"
+    },
+    {
+      "71998": "Gara 7"
+    },
+    {
+      "71999": "Gara 8"
+    },
+    {
+      "72000": "Gara 9"
+    },
+    {
+      "72001": "Gara 10"
+    },
+    {
+      "72002": "Gara 11"
+    },
+    {
+      "72003": "Gara 12"
+    },
+    {
+      "73672": "gara 13"
+    },
+    {
+      "73673": "gara 14"
+    },
+    {
+      "73770": "Gara 15"
+    },
+    {
+      "73771": "Gara 16"
+    },
+    {
+      "73772": "Gara 17"
+    },
+    {
+      "73773": "Gara 18"
+    },
+    {
+      "66530": "Gir.A"
+    },
+    {
+      "66531": "Gir.B"
+    },
+    {
+      "68857": "Gir.B"
+    },
+    {
+      "71350": "gara 1"
+    },
+    {
+      "71351": "gara 2"
+    },
+    {
+      "71352": "gara 3"
+    },
+    {
+      "71353": "gara 4"
+    },
+    {
+      "71362": "gara 7"
+    },
+    {
+      "71363": "gara 8"
+    },
+    {
+      "71364": "gara 9"
+    },
+    {
+      "71365": "gara 10"
+    },
+    {
+      "73039": "Gara 5"
+    },
+    {
+      "73040": "Gara 6"
+    },
+    {
+      "73043": "Gara 11"
+    },
+    {
+      "73044": "Gara 12"
+    },
+    {
+      "66347": "Gir.UNICO"
+    },
+    {
+      "66613": "Gir. A"
+    },
+    {
+      "66614": "Gir.B"
+    },
+    {
+      "69726": "Titolo"
+    },
+    {
+      "69727": "Silver"
+    },
+    {
+      "69728": "Bronze"
+    },
+    {
+      "66310": "Gir.A"
+    },
+    {
+      "66311": "Gir.B"
+    },
+    {
+      "68784": "Play In Gara 2"
+    },
+    {
+      "68785": "Play In Gara 3"
+    },
+    {
+      "68812": "Play Off 1e2 posto"
+    },
+    {
+      "68923": "Play In Gara 4"
+    },
+    {
+      "68924": "Play In Gara 5"
+    },
+    {
+      "69021": "Gir.A"
+    },
+    {
+      "69022": "Gir.B"
+    },
+    {
+      "69023": "Gir.C"
+    },
+    {
+      "69024": "Gir.D"
+    },
+    {
+      "69159": "Girone E"
+    },
+    {
+      "70391": "Gara 1"
+    },
+    {
+      "70392": "Gara 2"
+    },
+    {
+      "70393": "Gara 3"
+    },
+    {
+      "70394": "Gara 4"
+    },
+    {
+      "70395": "Gara 5"
+    },
+    {
+      "70396": "Gara 6"
+    },
+    {
+      "70397": "Gara 7"
+    },
+    {
+      "70398": "Gara 8"
+    },
+    {
+      "71986": "Gara 9"
+    },
+    {
+      "71987": "Gara 10"
+    },
+    {
+      "71988": "Gara 11"
+    },
+    {
+      "71989": "Gara 12"
+    },
+    {
+      "73744": "Prima Semifinale"
+    },
+    {
+      "73745": "Seconda Semifinale"
+    },
+    {
+      "74335": "Finale"
+    },
+    {
+      "66373": "Gir.UNICO"
+    },
+    {
+      "69441": "gir.GOLD"
+    },
+    {
+      "69442": "gir.Coppa Marche"
+    },
+    {
+      "66630": "Gir.A"
+    },
+    {
+      "66631": "Gir.B"
+    },
+    {
+      "71148": "Gara 1"
+    },
+    {
+      "71149": "Gara 2"
+    },
+    {
+      "71150": "Gara 3"
+    },
+    {
+      "71151": "Gara 4"
+    },
+    {
+      "71152": "Gara 8"
+    },
+    {
+      "71153": "Gara 9"
+    },
+    {
+      "71154": "Gara 10"
+    },
+    {
+      "71155": "Gara 11"
+    },
+    {
+      "71156": "Gara 15"
+    },
+    {
+      "71157": "Gara 16"
+    },
+    {
+      "71158": "Gara 17"
+    },
+    {
+      "72139": "Gara 5"
+    },
+    {
+      "72140": "Gara 6"
+    },
+    {
+      "72141": "Gara 12"
+    },
+    {
+      "72142": "Gara 13"
+    },
+    {
+      "72143": "Gara 18"
+    },
+    {
+      "72144": "Gara 19"
+    },
+    {
+      "73670": "Finale"
+    },
+    {
+      "73671": "Finale"
+    },
+    {
+      "73725": "Finale"
+    },
+    {
+      "66309": "Gir.UNICO"
+    },
+    {
+      "71766": "Gara 1"
+    },
+    {
+      "71767": "Gara 2"
+    },
+    {
+      "71768": "Gara 3"
+    },
+    {
+      "71769": "Gara 4"
+    },
+    {
+      "73564": "Gara 5"
+    },
+    {
+      "73565": "Gara 6"
+    },
+    {
+      "74442": "Finale"
+    },
+    {
+      "66751": "Gir.A"
+    },
+    {
+      "66752": "Gir.B"
+    },
+    {
+      "66753": "Gir.C"
+    },
+    {
+      "66754": "Gir.D"
+    },
+    {
+      "68782": "Bianco"
+    },
+    {
+      "68783": "Rosso"
+    },
+    {
+      "68848": "Nero"
+    },
+    {
+      "68849": "Verde"
+    },
+    {
+      "70516": "Gara 1"
+    },
+    {
+      "70517": "Gara 2"
+    },
+    {
+      "70518": "Gara 3"
+    },
+    {
+      "70519": "Gara 4"
+    },
+    {
+      "70520": "Gara 8"
+    },
+    {
+      "70521": "Gara 9"
+    },
+    {
+      "70522": "Gara 10"
+    },
+    {
+      "70523": "Gara 11"
+    },
+    {
+      "71788": "Gara 12"
+    },
+    {
+      "71789": "Gara 13"
+    },
+    {
+      "71790": "Finale"
+    },
+    {
+      "71840": "G.5 Prima Semif"
+    },
+    {
+      "71841": "G.6 Seconda Semif"
+    },
+    {
+      "73450": "Finale"
+    },
+    {
+      "73711": "Finale"
+    },
+    {
+      "66481": "Gir.UNICO"
+    },
+    {
+      "69846": "Titolo Reg"
+    },
+    {
+      "69982": "Prosecuzione"
+    },
+    {
+      "66827": "Gir.A"
+    },
+    {
+      "66828": "Gir.B"
+    },
+    {
+      "70463": "Gara 1"
+    },
+    {
+      "70464": "Gara 2"
+    },
+    {
+      "70465": "Gara 3"
+    },
+    {
+      "70466": "Gara 4"
+    },
+    {
+      "70472": "Gara 8"
+    },
+    {
+      "70473": "Gara 9"
+    },
+    {
+      "70474": "Gara 10"
+    },
+    {
+      "70475": "Gara 11"
+    },
+    {
+      "71990": "Gara 5"
+    },
+    {
+      "71991": "Gara 6"
+    },
+    {
+      "72286": "Gara 12"
+    },
+    {
+      "72287": "Gara 13"
+    },
+    {
+      "73566": "Finale"
+    },
+    {
+      "73712": "Finale"
+    },
+    {
+      "66958": "Gir.A"
+    },
+    {
+      "66959": "Gir.B"
+    },
+    {
+      "66960": "Gir.C"
+    },
+    {
+      "66961": "Gir.D"
+    },
+    {
+      "66962": "Gir.E"
+    },
+    {
+      "66963": "Gir.F"
+    },
+    {
+      "66964": "Gir.G"
+    },
+    {
+      "66965": "Gir.H"
+    },
+    {
+      "68510": "GOLD 1"
+    },
+    {
+      "68511": "GOLD 2"
+    },
+    {
+      "68512": "GOLD 3"
+    },
+    {
+      "68513": "GOLD 4"
+    },
+    {
+      "68514": "SILVER 5"
+    },
+    {
+      "68515": "SILVER 6"
+    },
+    {
+      "68516": "SILVER 7"
+    },
+    {
+      "68517": "SILVER 8"
+    },
+    {
+      "70590": "Gara 1"
+    },
+    {
+      "70591": "Gara 2"
+    },
+    {
+      "70592": "Gara 3"
+    },
+    {
+      "70593": "Gara 4"
+    },
+    {
+      "70691": "Gara 8"
+    },
+    {
+      "70692": "Gara 9"
+    },
+    {
+      "71966": "Prima Semifinale"
+    },
+    {
+      "71967": "Seconda Semifinale"
+    },
+    {
+      "72351": "Finale"
+    },
+    {
+      "73326": "Finale"
+    },
+    {
+      "73522": "Spareggio"
+    },
+    {
+      "67589": "ESORDIENTI ANCONA M - Girone A"
+    },
+    {
+      "67591": "ESORDIENTI ANCONA M -Girone B"
+    },
+    {
+      "67658": "ESORDIENTI PESARO"
+    },
+    {
+      "67733": "ESORDIENTI MACERATA"
+    },
+    {
+      "67734": "ESORDIENTI FERMO/ASCOLI P."
+    },
+    {
+      "69373": "ESORDIENTI AN 2\u00b0FASE-Gir.A"
+    },
+    {
+      "69375": "ESORDIENTI AN-Gir.B"
+    },
+    {
+      "69663": "ESO-ESO/OPEN Macerata"
+    },
+    {
+      "67659": "ESORDIENTI M-OPEN ANCONA"
+    },
+    {
+      "67725": "ESORDIENTI OPEN PESARO"
+    },
+    {
+      "67735": "ESORDIENTI OPEN FERMO/ASCOLI P"
+    },
+    {
+      "67758": "ESORDIENTI OPEN MACERATA"
+    },
+    {
+      "67712": "AQUILOTTI BIG ANCONA - Girone"
+    },
+    {
+      "67722": "AQUILOTTI BIG MACERATA"
+    },
+    {
+      "67726": "AQUILOTTI BIG PESARO"
+    },
+    {
+      "67737": "AQUILOTTI BIG FERMO/ASCOLI P."
+    },
+    {
+      "69606": "AQUILOTTI BIG AN-Gir.A"
+    },
+    {
+      "69607": "AQUILOTTI BIG AN-Gir. B"
+    },
+    {
+      "67717": "AQUILOTTI SMALL ANCONA - Giron"
+    },
+    {
+      "67723": "AQUILOTTI SMALL MACERATA"
+    },
+    {
+      "67728": "AQUILOTTI SMALL PESARO - Giron"
+    },
+    {
+      "67736": "AQUILOTTI SMALL FERMO-ASCOLI P"
+    },
+    {
+      "69581": "Aquilotti Small Pesaro"
+    },
+    {
+      "70450": "Aquilotti Small -2\u00b0Fase - MC"
+    },
+    {
+      "67718": "AQUILOTTI OPEN ANCONA"
+    },
+    {
+      "67724": "AQUILOTTI OPEN MACERATA"
+    },
+    {
+      "67729": "AQUILOTTI OPEN PESARO"
+    },
+    {
+      "67738": "AQUILOTTI OPEN FERMO/ASCOLI P."
+    },
+    {
+      "66391": "Gir.UNICO"
+    },
+    {
+      "68663": "Orologio"
+    },
+    {
+      "66428": "Gir. A"
+    },
+    {
+      "66429": "Gir. B"
+    },
+    {
+      "68690": "Gir.B"
+    },
+    {
+      "68953": "Amm.naz"
+    },
+    {
+      "69075": "Gir.Coppa"
+    },
+    {
+      "67052": "Unico"
+    },
+    {
+      "69895": "Titolo Reg."
+    },
+    {
+      "69896": "Coppa Silver"
+    },
+    {
+      "67027": "Gir.A"
+    },
+    {
+      "67028": "Gir.B"
+    },
+    {
+      "68549": "Gold"
+    },
+    {
+      "68550": "Silver"
+    },
+    {
+      "70563": "Gara 1"
+    },
+    {
+      "70564": "Gara 2"
+    },
+    {
+      "72354": "Finale"
+    },
+    {
+      "73197": "Spareggio"
+    }
+  ]
+}

@@ -192,7 +192,15 @@ def get_all_links(url: str) -> tuple[list[str], ParamLabelMapping]:
 
 def cli_args():
     parser = ArgumentParser()
-    parser.add_argument("-r", "--region", type=str, default=None, help="Region")
+    parser.add_argument(
+        "-r",
+        "--region",
+        action="extend",
+        nargs="*",
+        type=str,
+        default=None,
+        help="Region",
+    )
     parser.add_argument(
         "--no-download",
         action="store_true",
@@ -215,7 +223,7 @@ def main(args):
         config = json.load(f)
 
     if args["region"] is not None:
-        config = [c for c in config if c["region"] == args["region"]]
+        config = [c for c in config if c["region"] in args["region"]]
 
     for c in config:
         region_folder = os.path.join(

@@ -1,0 +1,222 @@
+{
+  "comitato_codice": [
+    {
+      "RBA": "POTENZA"
+    }
+  ],
+  "sesso": [
+    {
+      "M": "Campionati Maschili"
+    },
+    {
+      "F": "Campionati Femminili"
+    }
+  ],
+  "codice_campionato": [
+    {
+      "PM": "Divisione regionale 2"
+    },
+    {
+      "U17S/M": "Under 17 Maschile Regionale"
+    },
+    {
+      "U14S/M": "Under 14 Maschile Regionale"
+    },
+    {
+      "U13S/M": "Under 13 Maschile Regionale"
+    },
+    {
+      "OPENM": "Campionato Open Maschile"
+    },
+    {
+      "ES": "Trofeo Esordienti"
+    },
+    {
+      "TAQ": "Aquilotti"
+    },
+    {
+      "OPENF": "Campionato Open Femminile"
+    }
+  ],
+  "codice_fase": [
+    {
+      "1": "Prima Fase"
+    },
+    {
+      "2": "FASE OROLOGIO"
+    },
+    {
+      "3": "PLAY OFF SEMIFINALI"
+    },
+    {
+      "4": "FINALE REGIONALE"
+    },
+    {
+      "1": "Prima fase"
+    },
+    {
+      "2": "Doppia A/R"
+    },
+    {
+      "3": "SEMIFINALI"
+    },
+    {
+      "4": "FINALE"
+    },
+    {
+      "1": "Prima Fase"
+    },
+    {
+      "2": "SEMIFINALE"
+    },
+    {
+      "3": "FINALE"
+    },
+    {
+      "1": "Prima Fase"
+    },
+    {
+      "2": "DOPPIA A/R"
+    },
+    {
+      "3": "SPAREGGIO JR NBA FIP"
+    },
+    {
+      "4": "FASE OROLOGIO"
+    },
+    {
+      "5": "SEMIFINALE"
+    },
+    {
+      "6": "FINALE"
+    },
+    {
+      "1": "TROFEO DELLE PROVINC"
+    },
+    {
+      "2": "TROFEO UNDER 13"
+    },
+    {
+      "3": "TROFEO UNDER 14"
+    },
+    {
+      "1": "Prima Fase"
+    },
+    {
+      "2": "GIORNATA 1 MATERA"
+    },
+    {
+      "1": "Prima Fase"
+    },
+    {
+      "2": "GIORNATA 1 MATERA"
+    },
+    {
+      "3": "GIORNATA 2 MATERA"
+    },
+    {
+      "4": "GIORNATA 3 MATERA"
+    },
+    {
+      "1": "TROFEO DELLE PROVINC"
+    }
+  ],
+  "codice_girone": [
+    {
+      "67219": "Girone Unico"
+    },
+    {
+      "69043": "Girone A"
+    },
+    {
+      "70438": "Prima Semifinale"
+    },
+    {
+      "70439": "Seconda Semifinale"
+    },
+    {
+      "73519": "Finale"
+    },
+    {
+      "67370": "Girone Unico"
+    },
+    {
+      "69176": "Girone A"
+    },
+    {
+      "74556": "Prima Semifinale"
+    },
+    {
+      "74557": "Seconda Semifinale"
+    },
+    {
+      "74558": "Finale"
+    },
+    {
+      "67467": "Girone Unico"
+    },
+    {
+      "74559": "Girone Unico"
+    },
+    {
+      "74564": "Finale"
+    },
+    {
+      "67650": "Girone A"
+    },
+    {
+      "67651": "Girone B"
+    },
+    {
+      "69180": "Girone A"
+    },
+    {
+      "71503": "Finale"
+    },
+    {
+      "71600": "Girone B"
+    },
+    {
+      "74568": "Prima Semifinale"
+    },
+    {
+      "74569": "Seconda Semifinale"
+    },
+    {
+      "74570": "Finale"
+    },
+    {
+      "73464": "Finale"
+    },
+    {
+      "74586": "Finale"
+    },
+    {
+      "74587": "Finale"
+    },
+    {
+      "68478": "Girone A"
+    },
+    {
+      "73419": "Girone Unico"
+    },
+    {
+      "69274": "Girone A"
+    },
+    {
+      "69275": "Girone B"
+    },
+    {
+      "69701": "Girone Unico"
+    },
+    {
+      "70686": "Girone Unico"
+    },
+    {
+      "74026": "Girone Unico"
+    },
+    {
+      "73463": "Finale"
+    }
+  ]
+}

@@ -1,0 +1,675 @@
+{
+  "comitato_codice": [
+    {
+      "RUM": "PERUGIA"
+    }
+  ],
+  "sesso": [
+    {
+      "M": "Campionati Maschili"
+    },
+    {
+      "F": "Campionati Femminili"
+    }
+  ],
+  "codice_campionato": [
+    {
+      "C1": "Serie C"
+    },
+    {
+      "D": "Divisione regionale 1"
+    },
+    {
+      "PM": "Divisione regionale 2"
+    },
+    {
+      "U19G/M": "Under 19 Maschile Gold"
+    },
+    {
+      "U19S/M": "Under 19 Maschile Regionale"
+    },
+    {
+      "U17G/M": "Under 17 Maschile Gold"
+    },
+    {
+      "U17S/M": "Under 17 Maschile Regionale"
+    },
+    {
+      "U15G/M": "Under 15 Maschile Gold"
+    },
+    {
+      "U15S/M": "Under 15 Maschile Regionale"
+    },
+    {
+      "U14G/M": "Under 14 Maschile Gold"
+    },
+    {
+      "U14S/M": "Under 14 Maschile Regionale"
+    },
+    {
+      "U13S/M": "Under 13 Maschile Regionale"
+    },
+    {
+      "ES": "Trofeo Esordienti"
+    },
+    {
+      "ESO": "Trofeo Esordienti OPEN"
+    },
+    {
+      "TAQB": "Aquilotti Big"
+    },
+    {
+      "TAQS": "Aquilotti Small"
+    },
+    {
+      "TAQO": "Aquilotti OPEN"
+    },
+    {
+      "TSC": "Scoiattoli"
+    },
+    {
+      "TSCB": "Scoiattoli Big"
+    },
+    {
+      "TSCS": "Scoiattoli Small"
+    },
+    {
+      "C/F": "Serie C Femminile"
+    },
+    {
+      "U17/F": "Under 17 Femminile Regionale"
+    },
+    {
+      "U14/F": "Under 14 Femminile Regionale"
+    },
+    {
+      "U13/F": "Under 13 Femminile Regionale"
+    },
+    {
+      "TFE": "Esordienti Femminile"
+    },
+    {
+      "TGA": "Gazzelle"
+    }
+  ],
+  "codice_fase": [
+    {
+      "1": "1^ Fase Division N"
+    },
+    {
+      "2": "Play Off - Quarti di"
+    },
+    {
+      "3": "Semifinali - Play Ou"
+    },
+    {
+      "4": "Play Off - Semifinal"
+    },
+    {
+      "5": "Finale Play Out"
+    },
+    {
+      "6": "Play Off - Finale"
+    },
+    {
+      "1": "Coppa Umbria DR 1"
+    },
+    {
+      "2": "1^ Fase"
+    },
+    {
+      "3": "Semifinali Coppa Umb"
+    },
+    {
+      "4": "Finale Coppa Umbria"
+    },
+    {
+      "5": "Play Off - Quarti di"
+    },
+    {
+      "6": "Play Out - Semifinal"
+    },
+    {
+      "7": "Play Off - Semifinal"
+    },
+    {
+      "8": "Finale Play Out"
+    },
+    {
+      "9": "Play Off - Finale"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "2": "Semifinali DR 2"
+    },
+    {
+      "3": "Finale DR 2"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "2": "Semifinali F4"
+    },
+    {
+      "3": "Finali F4"
+    },
+    {
+      "1": "Qualificaione"
+    },
+    {
+      "2": "Semifinali F4"
+    },
+    {
+      "3": "Finali F4"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "2": "2^ Fase"
+    },
+    {
+      "3": "Semifinali F4"
+    },
+    {
+      "4": "Finali F4"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "2": "2^ Fase 1/4 AB"
+    },
+    {
+      "3": "2^ Fase 5/9 BA"
+    },
+    {
+      "4": "Semifinali F4 Trofeo"
+    },
+    {
+      "5": "Finale F4 Trofeo U17"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "2": "Fase Orologio"
+    },
+    {
+      "3": "Semifinali F4"
+    },
+    {
+      "4": "Finale F4"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "2": "Fase Orologio"
+    },
+    {
+      "3": "Semifinali F4"
+    },
+    {
+      "4": "Finali F4"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "2": "Semifinali F4"
+    },
+    {
+      "3": "Finali F4 U14 Gold"
+    },
+    {
+      "1": "1^ Fase"
+    },
+    {
+      "2": "Fase Orologio"
+    },
+    {
+      "3": "Semifinali F4 Trofeo"
+    },
+    {
+      "4": "Finale F4 Trofeo U14"
+    },
+    {
+      "1": "Preseason Jr NBA"
+    },
+    {
+      "2": "Jr NBA Championship"
+    },
+    {
+      "3": "Final Four Preaseson"
+    },
+    {
+      "4": "Finali F4 Preseason"
+    },
+    {
+      "5": "Quarti Play Off - Jr"
+    },
+    {
+      "6": "Jr NBA U13 M Prosecu"
+    },
+    {
+      "7": "Semifinali Paly Off"
+    },
+    {
+      "8": "Finale Jr NBA U13 M"
+    },
+    {
+      "1": "Trofeo Esordienti"
+    },
+    {
+      "1": "Trofeo Esordienti Op"
+    },
+    {
+      "1": "Trofeo Aquilotti Big"
+    },
+    {
+      "1": "Trofeo Aquilotti Sma"
+    },
+    {
+      "1": "Aquilotti Open"
+    },
+    {
+      "1": "Trofeo Scoiattoli"
+    },
+    {
+      "1": "Trofeo Scoiattoli Bi"
+    },
+    {
+      "1": "Trofeo Scoiattoli Sm"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "2": "Play Off - Quarti di"
+    },
+    {
+      "3": "Play Off - Semifinal"
+    },
+    {
+      "4": "Play Off - Finale"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "1": "1^ Fase"
+    },
+    {
+      "2": "Fase Orologio"
+    },
+    {
+      "3": "Semifinale"
+    },
+    {
+      "4": "Finale"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "2": "Jr NBA Championship"
+    },
+    {
+      "3": "Semifinali F4 Jr NBA"
+    },
+    {
+      "4": "Finali F4 Jr NBA U13"
+    },
+    {
+      "5": "Jr NBA U13 F Sparegg"
+    },
+    {
+      "1": "Trofeo Esordienti F"
+    },
+    {
+      "1": "Trofeo Gazzelle"
+    }
+  ],
+  "codice_girone": [
+    {
+      "66220": "Girone A"
+    },
+    {
+      "70850": "Primo Quarto"
+    },
+    {
+      "70851": "Secondo Quarto"
+    },
+    {
+      "70852": "Terzo Quarto"
+    },
+    {
+      "70853": "Quarto Quarto"
+    },
+    {
+      "70858": "Prima Semifinale"
+    },
+    {
+      "70859": "Seconda Semifinale"
+    },
+    {
+      "72365": "Prima Semifinale"
+    },
+    {
+      "72366": "Seconda Semifinale"
+    },
+    {
+      "73307": "Finale"
+    },
+    {
+      "73778": "Finale"
+    },
+    {
+      "66288": "Girone A"
+    },
+    {
+      "66289": "Girone B"
+    },
+    {
+      "66337": "Girone A"
+    },
+    {
+      "68268": "Semifinali Coppa Umbria"
+    },
+    {
+      "68301": "Girone A"
+    },
+    {
+      "70872": "Primo Quarto"
+    },
+    {
+      "70873": "Secondo Quarto"
+    },
+    {
+      "70874": "Terzo Quarto"
+    },
+    {
+      "70875": "Quarto Quarto"
+    },
+    {
+      "71030": "Prima Semifinale"
+    },
+    {
+      "71031": "Seconda Semifinale"
+    },
+    {
+      "72408": "Prima Semifinale"
+    },
+    {
+      "72409": "Seconda Semifinale"
+    },
+    {
+      "73312": "Finale"
+    },
+    {
+      "73779": "Finale"
+    },
+    {
+      "66589": "Girone A"
+    },
+    {
+      "74606": "Girone A"
+    },
+    {
+      "74837": "Girone A"
+    },
+    {
+      "66491": "Girone A"
+    },
+    {
+      "71060": "Girone A"
+    },
+    {
+      "71815": "Girone A"
+    },
+    {
+      "66748": "Girone A"
+    },
+    {
+      "71983": "Girone A"
+    },
+    {
+      "72563": "Girone A"
+    },
+    {
+      "66749": "Girone A"
+    },
+    {
+      "69681": "Girone Dispari"
+    },
+    {
+      "69682": "Girone Pari"
+    },
+    {
+      "73666": "Girone A"
+    },
+    {
+      "73929": "Girone A"
+    },
+    {
+      "67002": "Girone A"
+    },
+    {
+      "67003": "Girone B"
+    },
+    {
+      "69735": "Girone A"
+    },
+    {
+      "69773": "Girone A"
+    },
+    {
+      "74583": "Girone A"
+    },
+    {
+      "74624": "Girone A"
+    },
+    {
+      "67047": "Girone A"
+    },
+    {
+      "69469": "Girone A2"
+    },
+    {
+      "74056": "Girone A"
+    },
+    {
+      "74393": "Girone A"
+    },
+    {
+      "67048": "Girone A"
+    },
+    {
+      "69459": "Girone A2"
+    },
+    {
+      "72651": "Girone A"
+    },
+    {
+      "73247": "Girone A"
+    },
+    {
+      "67193": "Girone A"
+    },
+    {
+      "74458": "Girone A"
+    },
+    {
+      "74615": "Girone A"
+    },
+    {
+      "67242": "Girone A"
+    },
+    {
+      "69680": "Girone A2"
+    },
+    {
+      "74130": "Girone A"
+    },
+    {
+      "74394": "Girone A"
+    },
+    {
+      "67283": "Girone A"
+    },
+    {
+      "67284": "Girone B"
+    },
+    {
+      "68339": "Div. Atlantic"
+    },
+    {
+      "68340": "Div. Central"
+    },
+    {
+      "68341": "Div. Southeast"
+    },
+    {
+      "68342": "Div. Northwest"
+    },
+    {
+      "68480": "Girone A"
+    },
+    {
+      "68574": "Finali"
+    },
+    {
+      "70134": "Primo Quarto"
+    },
+    {
+      "70135": "Secondo Quarto"
+    },
+    {
+      "70136": "Terzo Quarto"
+    },
+    {
+      "70137": "Quarto Quarto"
+    },
+    {
+      "70138": "Girone A"
+    },
+    {
+      "70139": "Girone B"
+    },
+    {
+      "71066": "Prima Semifinale"
+    },
+    {
+      "71067": "Seconda Semifinale"
+    },
+    {
+      "72646": "Girone A"
+    },
+    {
+      "67801": "Girone A"
+    },
+    {
+      "67802": "Girone B"
+    },
+    {
+      "67800": "Girone A"
+    },
+    {
+      "67803": "Girone A"
+    },
+    {
+      "67804": "Girone B"
+    },
+    {
+      "67805": "Girone C"
+    },
+    {
+      "67806": "Girone A"
+    },
+    {
+      "67807": "Girone B"
+    },
+    {
+      "67808": "Girone A"
+    },
+    {
+      "67809": "Girone A"
+    },
+    {
+      "67810": "Girone A"
+    },
+    {
+      "67811": "Girone B"
+    },
+    {
+      "67812": "Girone A"
+    },
+    {
+      "67813": "Girone B"
+    },
+    {
+      "66484": "Girone A"
+    },
+    {
+      "70876": "Primo Quarto"
+    },
+    {
+      "70877": "Secondo Quarto"
+    },
+    {
+      "70878": "Terzo Quarto"
+    },
+    {
+      "70879": "Quarto Quarto"
+    },
+    {
+      "72367": "Prima Semifinale"
+    },
+    {
+      "72368": "Seconda Semifinale"
+    },
+    {
+      "73780": "Finale"
+    },
+    {
+      "66529": "Girone A"
+    },
+    {
+      "67445": "Girone A"
+    },
+    {
+      "69826": "Girone A"
+    },
+    {
+      "73414": "Girone A"
+    },
+    {
+      "73748": "Girone A"
+    },
+    {
+      "67447": "Girone A"
+    },
+    {
+      "68343": "Div. Pacific"
+    },
+    {
+      "70375": "Girone A"
+    },
+    {
+      "70760": "Girone A"
+    },
+    {
+      "73418": "Girone A"
+    },
+    {
+      "67799": "Girone A"
+    },
+    {
+      "67798": "Girone A"
+    }
+  ]
+}

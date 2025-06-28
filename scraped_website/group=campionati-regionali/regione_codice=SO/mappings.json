@@ -1,0 +1,972 @@
+{
+  "comitato_codice": [
+    {
+      "RSO": "PALERMO"
+    }
+  ],
+  "sesso": [
+    {
+      "M": "Campionati Maschili"
+    },
+    {
+      "F": "Campionati Femminili"
+    }
+  ],
+  "codice_campionato": [
+    {
+      "C1": "Serie C"
+    },
+    {
+      "D": "Divisione regionale 1"
+    },
+    {
+      "PM": "Divisione regionale 2"
+    },
+    {
+      "1DM": "Divisione regionale 3"
+    },
+    {
+      "U19G/M": "Under 19 Maschile Gold"
+    },
+    {
+      "U19S/M": "Under 19 Maschile Regionale"
+    },
+    {
+      "U17/E": "Under 17 Maschile Eccellenza"
+    },
+    {
+      "U17S/M": "Under 17 Maschile Regionale"
+    },
+    {
+      "U15/E": "Under 15 Maschile Eccellenza"
+    },
+    {
+      "U15S/M": "Under 15 Maschile Regionale"
+    },
+    {
+      "U14S/M": "Under 14 Maschile Regionale"
+    },
+    {
+      "U13S/M": "Under 13 Maschile Regionale"
+    },
+    {
+      "ES": "Trofeo Esordienti"
+    },
+    {
+      "ESO": "Trofeo Esordienti OPEN"
+    },
+    {
+      "TAQB": "Aquilotti Big"
+    },
+    {
+      "TAQS": "Aquilotti Small"
+    },
+    {
+      "TAQO": "Aquilotti OPEN"
+    },
+    {
+      "B/F": "Serie B Femminile"
+    },
+    {
+      "C/F": "Serie C Femminile"
+    },
+    {
+      "U17/F": "Under 17 Femminile Regionale"
+    },
+    {
+      "U15/F": "Under 15 Femminile Regionale"
+    },
+    {
+      "U14/F": "Under 14 Femminile Regionale"
+    },
+    {
+      "U13/F": "Under 13 Femminile Regionale"
+    },
+    {
+      "TFE": "Esordienti Femminile"
+    }
+  ],
+  "codice_fase": [
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "2": "Play off / Play Out"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "2": "Orologio_Ovest"
+    },
+    {
+      "3": "PlayOff"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "2": "Orologio"
+    },
+    {
+      "3": "Play off"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "2": "Fase 2"
+    },
+    {
+      "3": "Finale"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "2": "Promozionale"
+    },
+    {
+      "3": "PromozionaleME"
+    },
+    {
+      "4": "Qualificazione_Orolo"
+    },
+    {
+      "5": "FinalFour"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "2": "Play-in"
+    },
+    {
+      "3": "Fase Finale"
+    },
+    {
+      "4": "Finale"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "2": "Orologio"
+    },
+    {
+      "3": "Spareggio AG_RG"
+    },
+    {
+      "4": "Final Four"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "2": "Seconda Fase"
+    },
+    {
+      "3": "Finali"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "2": "Promozionale"
+    },
+    {
+      "3": "Qualificazione_FASE2"
+    },
+    {
+      "4": "Promozionale_Fase2"
+    },
+    {
+      "5": "Orologio"
+    },
+    {
+      "6": "Spareggio_EN_ME"
+    },
+    {
+      "7": "Promozionale_Fase3"
+    },
+    {
+      "8": "FinalFour"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "2": "QUALIFICAZIONE II"
+    },
+    {
+      "3": "SPAREGGIO"
+    },
+    {
+      "4": "FINAL FOUR -SEMIFINA"
+    },
+    {
+      "5": "FINAL FOUR -FINALI"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "2": "QUALIFICAZIONE -II-"
+    },
+    {
+      "3": "QUALIFICAZIONE III-O"
+    },
+    {
+      "4": "FINAL FOUR -SEMIFINA"
+    },
+    {
+      "5": "FINAL FOUR FINALI"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "2": "2 Fase"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "2": "Play off"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "2": "Fase2"
+    },
+    {
+      "3": "Fase2 Oro"
+    },
+    {
+      "4": "Poul Promozione"
+    },
+    {
+      "5": "Promozione"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "2": "Qualificazione_New"
+    },
+    {
+      "3": "FinalFour"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "2": "Qualificazione_Ovest"
+    },
+    {
+      "3": "Final Four"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "2": "QUALIFICAZIONE -II-"
+    },
+    {
+      "3": "SPAREGGI"
+    },
+    {
+      "1": "Qualificazione"
+    },
+    {
+      "2": "QUALIFICAZIONE -II-"
+    },
+    {
+      "3": "SPAREGGI_II_FASE"
+    },
+    {
+      "1": "Qualificazione"
+    }
+  ],
+  "codice_girone": [
+    {
+      "66325": "Unico"
+    },
+    {
+      "71284": "PlayOff_Turno1"
+    },
+    {
+      "71289": "PlayOut_Turno1"
+    },
+    {
+      "72603": "PlayOff_Turno2"
+    },
+    {
+      "73424": "PlayOut_Turno2"
+    },
+    {
+      "73834": "PlayOff_Turno3"
+    },
+    {
+      "66307": "Ovest"
+    },
+    {
+      "66308": "Est"
+    },
+    {
+      "69385": "Ovest"
+    },
+    {
+      "70141": "Turno1_Ovest"
+    },
+    {
+      "70334": "Turno1_Est"
+    },
+    {
+      "71281": "Turno2_Ovest"
+    },
+    {
+      "71639": "Turno2_Est"
+    },
+    {
+      "72567": "Turno3_Est"
+    },
+    {
+      "72581": "Turno3_Ovest"
+    },
+    {
+      "67070": "AG - CL - RG"
+    },
+    {
+      "67071": "PA - AG - TP"
+    },
+    {
+      "67072": "CT"
+    },
+    {
+      "67073": "ME"
+    },
+    {
+      "68709": "AG - CL - RG"
+    },
+    {
+      "69246": "CT_Turno1"
+    },
+    {
+      "69760": "AG - CL - RG Turno1"
+    },
+    {
+      "69833": "PA - AG - TP Turno1"
+    },
+    {
+      "69962": "CT_Turno2"
+    },
+    {
+      "70263": "ME_Turno1"
+    },
+    {
+      "71488": "AG - CL - RG Turno2"
+    },
+    {
+      "71942": "PA - AG - TP Turno2"
+    },
+    {
+      "72658": "ME_Turno2"
+    },
+    {
+      "67883": "Unico"
+    },
+    {
+      "66353": "Unico"
+    },
+    {
+      "71408": "Turno 1"
+    },
+    {
+      "72204": "Turno 2"
+    },
+    {
+      "73107": "Finale"
+    },
+    {
+      "67075": "AG - CL - RG - SR"
+    },
+    {
+      "67076": "CT"
+    },
+    {
+      "67077": "ME"
+    },
+    {
+      "67078": "PA - TP"
+    },
+    {
+      "67785": "MESSINA"
+    },
+    {
+      "68430": "MESSINA"
+    },
+    {
+      "69272": "AG - CL - RG - SR"
+    },
+    {
+      "69686": "ME"
+    },
+    {
+      "69687": "CT"
+    },
+    {
+      "71417": "PA - TP"
+    },
+    {
+      "72973": "Semifinali"
+    },
+    {
+      "73759": "Finali"
+    },
+    {
+      "66314": "East"
+    },
+    {
+      "66315": "Nord"
+    },
+    {
+      "66316": "Sud"
+    },
+    {
+      "67992": "Gold"
+    },
+    {
+      "68033": "Silver"
+    },
+    {
+      "70255": "Unico"
+    },
+    {
+      "71464": "Fase2"
+    },
+    {
+      "72771": "Finale"
+    },
+    {
+      "67079": "AG - CL - EN"
+    },
+    {
+      "67080": "CT"
+    },
+    {
+      "67081": "ME"
+    },
+    {
+      "67082": "PA - TP"
+    },
+    {
+      "67083": "RG - SR"
+    },
+    {
+      "69840": "RG - SR"
+    },
+    {
+      "71419": "AG - CL - EN"
+    },
+    {
+      "73497": "Unico"
+    },
+    {
+      "74197": "Semifinali"
+    },
+    {
+      "74282": "Finali"
+    },
+    {
+      "66306": "Unico"
+    },
+    {
+      "70052": "Turno 1"
+    },
+    {
+      "70260": "Turno 2 A"
+    },
+    {
+      "70471": "Turno 2 B"
+    },
+    {
+      "71239": "Finali"
+    },
+    {
+      "67097": "AG - CL - EN"
+    },
+    {
+      "67098": "CT"
+    },
+    {
+      "67099": "ME"
+    },
+    {
+      "67100": "PA - AG - TP"
+    },
+    {
+      "67101": "RG - SR"
+    },
+    {
+      "67780": "CATANIA"
+    },
+    {
+      "67781": "PALERMO-TRAPANI"
+    },
+    {
+      "67782": "RAGUSA-SIRACUSA"
+    },
+    {
+      "67783": "MESSINA"
+    },
+    {
+      "67784": "AGRIGENTO"
+    },
+    {
+      "69031": "AG - CL - EN"
+    },
+    {
+      "69033": "ME"
+    },
+    {
+      "69035": "RG - SR"
+    },
+    {
+      "69038": "PALERMO-TRAPANI"
+    },
+    {
+      "69039": "RAGUSA-SIRACUSA"
+    },
+    {
+      "69040": "MESSINA"
+    },
+    {
+      "70723": "CT"
+    },
+    {
+      "73563": "PA - AG - TP"
+    },
+    {
+      "73570": "Spareggio"
+    },
+    {
+      "74081": "RAGUSA-SIRACUSA"
+    },
+    {
+      "74459": "Semifinali"
+    },
+    {
+      "74625": "Finali"
+    },
+    {
+      "67106": "AG - CL"
+    },
+    {
+      "67107": "CT"
+    },
+    {
+      "67108": "ME"
+    },
+    {
+      "67109": "PA - TP"
+    },
+    {
+      "67110": "RG - SR"
+    },
+    {
+      "69478": "Girone A-AG-CL"
+    },
+    {
+      "73710": "SPAREGGIO"
+    },
+    {
+      "74267": "Prima Semifinale"
+    },
+    {
+      "74268": "Seconda Semifinale"
+    },
+    {
+      "74595": "Finale 3 4 Posto"
+    },
+    {
+      "74596": "Finale 1 2 posto"
+    },
+    {
+      "67111": "SOUTHWEST DIVISION"
+    },
+    {
+      "67112": "EAST DIVISION"
+    },
+    {
+      "67113": "ATLANTIC DIVISION"
+    },
+    {
+      "67114": "CENTRAL DIVISION"
+    },
+    {
+      "67115": "NORTHWEST DIVISION"
+    },
+    {
+      "67116": "SOUTHEAST DIVISION"
+    },
+    {
+      "67117": "PACIFIC DIVISION"
+    },
+    {
+      "69257": "Girone  RG-SR (SOUTHEST DIVISI"
+    },
+    {
+      "69258": "Girone TP-AG (PACIFIC DIVISION"
+    },
+    {
+      "69848": "Girone AG-CL-EN SOUTHWEST"
+    },
+    {
+      "69858": "Girone ME CENTRAL DIVISION"
+    },
+    {
+      "70404": "ATLANTIC DIVISION"
+    },
+    {
+      "71857": "SPAREGGIO_GIRONI_AG_CL_EN_TP_R"
+    },
+    {
+      "72325": "SPAREGGIO GIRONI CENTRAL-ATLAN"
+    },
+    {
+      "72838": "SPAREGGIO_SOUTWEST_PACIFIC"
+    },
+    {
+      "73096": "SPAREGGIO_PACIF_SOTHEAST"
+    },
+    {
+      "73719": "Prima Semifinale"
+    },
+    {
+      "73720": "Seconda Semifinale"
+    },
+    {
+      "73756": "FINALI"
+    },
+    {
+      "67833": "AG GIALLO"
+    },
+    {
+      "67837": "TP GIALLO"
+    },
+    {
+      "67838": "ME GIALLO"
+    },
+    {
+      "67839": "CL GIALLO"
+    },
+    {
+      "67840": "CT GIALLO"
+    },
+    {
+      "67842": "PA GIALLO"
+    },
+    {
+      "67843": "RG GIALLO"
+    },
+    {
+      "67844": "SR GIALLO"
+    },
+    {
+      "67851": "ME ROSSO"
+    },
+    {
+      "67852": "CL ROSSO"
+    },
+    {
+      "67855": "PA ROSSO"
+    },
+    {
+      "67875": "CT ROSSO"
+    },
+    {
+      "67876": "CT VERDE"
+    },
+    {
+      "67884": "EN GIALLO"
+    },
+    {
+      "68022": "RG ROSSO"
+    },
+    {
+      "68797": "CL ORO"
+    },
+    {
+      "68798": "CL AMARANTO"
+    },
+    {
+      "68799": "CT ORO"
+    },
+    {
+      "68800": "CT AMARANTO"
+    },
+    {
+      "68801": "CT SMERALDO"
+    },
+    {
+      "68802": "ME ORO"
+    },
+    {
+      "68805": "PA ORO"
+    },
+    {
+      "68806": "PA AMARANTO"
+    },
+    {
+      "68807": "PA SMERALDO"
+    },
+    {
+      "68808": "RG ORO"
+    },
+    {
+      "68951": "SR ORO"
+    },
+    {
+      "71668": "CT ORO_II"
+    },
+    {
+      "67857": "CT AZZURRO"
+    },
+    {
+      "67858": "PA AZZURRO"
+    },
+    {
+      "67859": "RG AZZURRO"
+    },
+    {
+      "67940": "AG GIALLO"
+    },
+    {
+      "67944": "CL GIALLO"
+    },
+    {
+      "67945": "CL ROSSO"
+    },
+    {
+      "67948": "CT GIALLO"
+    },
+    {
+      "67949": "CT ROSSO"
+    },
+    {
+      "67950": "CT VERDE"
+    },
+    {
+      "67956": "ME GIALLO"
+    },
+    {
+      "67960": "PA GIALLO"
+    },
+    {
+      "67961": "PA ROSSO"
+    },
+    {
+      "67962": "PA VERDE"
+    },
+    {
+      "67963": "PA BLU"
+    },
+    {
+      "67964": "RG GIALLO"
+    },
+    {
+      "67968": "SR GIALLO"
+    },
+    {
+      "67969": "SR ROSSO"
+    },
+    {
+      "67970": "SR VERDE"
+    },
+    {
+      "67972": "TP GIALLO"
+    },
+    {
+      "68731": "PA BIANCO"
+    },
+    {
+      "67912": "CT GIALLO"
+    },
+    {
+      "67920": "ME GIALLO"
+    },
+    {
+      "67924": "PA GIALLO"
+    },
+    {
+      "67925": "PA ROSSO"
+    },
+    {
+      "67929": "RG GIALLO"
+    },
+    {
+      "67936": "TP GIALLO"
+    },
+    {
+      "67900": "CT AZZURRO"
+    },
+    {
+      "67901": "PA AZZURRO"
+    },
+    {
+      "67902": "RG AZZURRO"
+    },
+    {
+      "67976": "ME AZZURRO"
+    },
+    {
+      "67984": "TP AZZURRO"
+    },
+    {
+      "68680": "RG VERDE"
+    },
+    {
+      "66291": "Girone Unico"
+    },
+    {
+      "69036": "Turno1"
+    },
+    {
+      "69603": "Turno2"
+    },
+    {
+      "70140": "Turno 3"
+    },
+    {
+      "67487": "Girone A"
+    },
+    {
+      "67488": "Girone B"
+    },
+    {
+      "68681": "Girone A"
+    },
+    {
+      "69604": "Girone B"
+    },
+    {
+      "70304": "Girone A"
+    },
+    {
+      "73160": "Turno 1"
+    },
+    {
+      "74434": "Finali"
+    },
+    {
+      "66580": "Unico"
+    },
+    {
+      "67777": "Unico"
+    },
+    {
+      "70116": "Semifinali"
+    },
+    {
+      "70254": "Finali"
+    },
+    {
+      "66389": "Est"
+    },
+    {
+      "66390": "Ovest"
+    },
+    {
+      "68557": "Ovest"
+    },
+    {
+      "70308": "Semifinali"
+    },
+    {
+      "70643": "Finali"
+    },
+    {
+      "67363": "CT-ME"
+    },
+    {
+      "67364": "ME"
+    },
+    {
+      "67365": "PA-CL"
+    },
+    {
+      "69280": "Girone A"
+    },
+    {
+      "69281": "Girone B"
+    },
+    {
+      "69282": "Girone C"
+    },
+    {
+      "72345": "SPAREGGI_CT_ME"
+    },
+    {
+      "72347": "SPAREGGI_PA"
+    },
+    {
+      "73908": "FINALTHREE"
+    },
+    {
+      "67360": "ATLANTIC DIVISION"
+    },
+    {
+      "67361": "PACIFIC DIVISION"
+    },
+    {
+      "67362": "SOUTHEAST DIVISION"
+    },
+    {
+      "69259": "Girone CT ( ATLANTIC DIVISION)"
+    },
+    {
+      "69260": "Girone PA-AG-TP (PACIFIC DIVIS"
+    },
+    {
+      "69261": "Girone RG-SR-EN (SOUTHEAST DIV"
+    },
+    {
+      "72824": "I-SPAREGGI_GIRONI_"
+    },
+    {
+      "72825": "SPAREGGI II FASE"
+    },
+    {
+      "73425": "SPAREGGIO_EN_ME"
+    },
+    {
+      "73909": "FINALTHREE"
+    },
+    {
+      "68522": "TP ROSA"
+    },
+    {
+      "68730": "PA ROSA"
+    },
+    {
+      "68962": "ME ROSA"
+    }
+  ]
+}

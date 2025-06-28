@@ -1,0 +1,162 @@
+{
+  "comitato_codice": [
+    {
+      "RMO": "CAMPOBASSO"
+    }
+  ],
+  "sesso": [
+    {
+      "M": "Campionati Maschili"
+    },
+    {
+      "F": "Campionati Femminili"
+    }
+  ],
+  "codice_campionato": [
+    {
+      "U17S/M": "Under 17 Maschile Regionale"
+    },
+    {
+      "U15S/M": "Under 15 Maschile Regionale"
+    },
+    {
+      "U14S/M": "Under 14 Maschile Regionale"
+    },
+    {
+      "U13S/M": "Under 13 Maschile Regionale"
+    },
+    {
+      "ES": "Trofeo Esordienti"
+    },
+    {
+      "U13/F": "Under 13 Femminile Regionale"
+    }
+  ],
+  "codice_fase": [
+    {
+      "1": "PRIMA FASE"
+    },
+    {
+      "2": "SECONDA FASE"
+    },
+    {
+      "3": "FINALE REGIONALE"
+    },
+    {
+      "1": "PRIMA FASE"
+    },
+    {
+      "2": "OROLOGIO"
+    },
+    {
+      "3": "PLAYOFF SEMIFINALI"
+    },
+    {
+      "4": "PLAYOFF FINALE"
+    },
+    {
+      "1": "PRIMA FASE"
+    },
+    {
+      "2": "FASE OROLOGIO"
+    },
+    {
+      "3": "SEMIFINALE"
+    },
+    {
+      "4": "FINALE REGIONALE"
+    },
+    {
+      "1": "QUALIFICAZIONE"
+    },
+    {
+      "2": "jrNBA"
+    },
+    {
+      "3": "PLAYOFF SEMIFINALI"
+    },
+    {
+      "4": "PLAYOFF FINALE"
+    },
+    {
+      "1": "GIRONE A"
+    },
+    {
+      "1": "PRIMA FASE"
+    },
+    {
+      "2": "PLAYOFF SEMIFINALI"
+    },
+    {
+      "3": "PLAYOFF FINALI"
+    }
+  ],
+  "codice_girone": [
+    {
+      "67791": "Girone A"
+    },
+    {
+      "67793": "Girone B"
+    },
+    {
+      "74220": "Finale"
+    },
+    {
+      "67794": "Girone A"
+    },
+    {
+      "71474": "Girone A"
+    },
+    {
+      "74356": "Prima Semifinale"
+    },
+    {
+      "74357": "Seconda Semifinale"
+    },
+    {
+      "74810": "Finale"
+    },
+    {
+      "67792": "Girone A"
+    },
+    {
+      "71487": "Girone O"
+    },
+    {
+      "74838": "Finale"
+    },
+    {
+      "74922": "Finale"
+    },
+    {
+      "67871": "Girone A"
+    },
+    {
+      "69725": "Girone A"
+    },
+    {
+      "72227": "Prima Semifinale"
+    },
+    {
+      "72228": "Seconda Semifinale"
+    },
+    {
+      "74143": "Finale"
+    },
+    {
+      "67873": "Girone A"
+    },
+    {
+      "68370": "Girone A"
+    },
+    {
+      "72786": "Prima Semifinale"
+    },
+    {
+      "72787": "Seconda Semifinale"
+    },
+    {
+      "74680": "FINALE 1-2 POSTO"
+    }
+  ]
+}
